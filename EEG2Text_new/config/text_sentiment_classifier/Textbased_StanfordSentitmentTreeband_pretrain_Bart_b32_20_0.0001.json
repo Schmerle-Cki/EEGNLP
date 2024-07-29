@@ -1,0 +1,21 @@
+{
+    "dataset_name": "SST",
+    "model_name": "pretrain_Bart",
+    "num_epoch": 20,
+    "learning_rate": 0.0001,
+    "batch_size": 32,
+    "save_path": "./checkpoints/text_sentiment_classifier",
+    "subjects": "ALL",
+    "eeg_type": "GD",
+    "eeg_bands": [
+        "_t1",
+        "_t2",
+        "_a1",
+        "_a2",
+        "_b1",
+        "_b2",
+        "_g1",
+        "_g2"
+    ],
+    "cuda": "cuda:4"
+}

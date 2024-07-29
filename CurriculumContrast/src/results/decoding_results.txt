@@ -1,0 +1,2358 @@
+start################################################
+Predicted: eral a compelling case study it to provide a compelling for us to care about the superficial basic moralums of the decency.,.,...,,,,..,,.isisisisisisisisisisis...
+True: Presents a good case while failing to provide a reason for us to care beyond the very basic dictums of human decency.
+end################################################
+
+
+start################################################
+Predicted: ifully acted and beautifully and. has appeal everyone audiences. for something and a sense nostalgia nostalgicy experience. will keep them guessing.,,,is,,,,isisisisis
+True: Beautifully crafted, engaging filmmaking that should attract upscale audiences hungry for quality and a nostalgic, twisty yarn that will keep them guessing.
+end################################################
+
+
+start################################################
+Predicted: og is like God, a many flaws,'s be easy for him to call it.,,.....isis.......,,....,,(...,,,,,,,,,,
+True: Bread, My Sweet has so many flaws it would be easy for critics to shred it.
+end################################################
+
+
+start################################################
+Predicted: , ponder and unintentionally hilarious.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,. a a.............
+True: Slow, silly and unintentionally hilarious.
+end################################################
+
+
+start################################################
+Predicted: , ainentlyow. and aying. like a a canion wafer with a wine.,,,,.,,,,,,,,,isisisisisisis,isisisisis,
+True: Ultimately feels emp11111ty and unsatisfying, like swallowing a Communion wafer without the wine.
+end################################################
+
+
+start################################################
+Predicted: udes a careizzling a movieby Berkeley musical. the sens energy of a sports extravaganza.,,,,,..,,,,,,isisisisisisisisisisisisisis isind
+True: Exudes the fizz of a Busby Berkeley musical and the visceral excitement of a sports extravaganza.
+end################################################
+
+
+start################################################
+Predicted:  movie isenashes a old themes, is rep by a energy. the's a violent, visually much.,,,,..,,,,,,,,,,,,,,,is, isisisisis
+True: The film rehashes several old themes and is capped with pointless extremes -- it's insanely violent and very graphic.
+end################################################
+
+
+start################################################
+Predicted:  Gosling is a as a word, a. a enigmatic,.,,,,,,,,,,,,, is,,, is isisis,,,,,,,pp,,,,,,,,
+True: Ryan Gosling is, in a word, brilliant as the conflicted Daniel.
+end################################################
+
+
+start################################################
+Predicted:  youuces Wild is been made by a notch, would have been a cult classic. a of the rare that's so bad it's out look a,,.,,,,,,,,,,is
+True: If Deuces Wild had been tweaked up a notch it would have become a camp adventure, one of those movies that's so bad it starts to become good.
+end################################################
+
+
+start################################################
+Predicted:  movie is pacingcraft is are grand, the,. than its film sum dialogueifice. gives it sustms it film. story..'s,,,,,,,,,,isisisis
+True: The film's stagecrafts are intimate and therefore bolder than the otherwise calculated artifice that defines and overwhelms the film's production design.
+end################################################
+
+
+start################################################
+Predicted: ances is a a ordinary, but neither is it a sortlo of thatida Kah have been looking for.,,,,,..,,,,,,isisisisisisisisisisisisisis.
+True: Frida is certainly no disaster, but neither is it the Kahlo movie Frida fans have been looking for.
+end################################################
+
+
+start################################################
+Predicted:  movie is achieves a mesmerizing clarity.,,,,,,,,,, is is is.. -- to to to to to to to to.... the... -- -- -- -- -- --.. --...
+True: The film often achieves a mesmerizing poetry.
+end################################################
+
+
+start################################################
+Predicted:  work of breathtaking delicacy and force.,,,,,,,, is isenod -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A work of astonishing delicacy and force.
+end################################################
+
+
+start################################################
+Predicted:  movie is title is as entirely devoidless, theane. its a joke and or three times over its point. make a laugh.'s,,,is,,, isisis,, is is isis is is
+True: The movie's plot is almost entirely witless and inane, carrying every gag two or three times beyond its limit to sustain a laugh.
+end################################################
+
+
+start################################################
+Predicted:  all most part, it movie are there,,,, is.. is,, about damn damnen to............. ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: For the most part, the ingredients are there.
+end################################################
+
+
+start################################################
+Predicted:  it you're been close smallinee price, bought a movie tub of popcorn, you's no satisfaction to be had here...,,,,.....isisisisis,isv just just just just
+True: But if you've paid a matinee price and bought a big tub of popcorn, there's guilty fun to be had here.
+end################################################
+
+
+start################################################
+Predicted: 's a much to thisale, other of the engaging and, there's OK.,,........ isisis,... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: There's not much to Fatale, outside of its stylish surprises... but that's OK.
+end################################################
+
+
+start################################################
+Predicted:  movie is superb, the pacing is depth the of suspense, and pacing are like they were made from aigan's ` -- a the acting isoby treats have have a best movie-effects movie of the year.'s,
+True: The acting is stiff, the story lacks all trace of wit, the sets look like they were borrowed from Gilligan's Island -- and the CGI Scooby might well be the worst special-effects creation of the year.
+end################################################
+
+
+start################################################
+Predicted:  is is beyond the original's original. the era experience. of theteryear. a place realization of the's power to conceive out a the human authentic experience..isisisisis,,,,,,
+True: This version moves beyond the original's nostalgia for the communal film experiences of yesteryear to a deeper realization of cinema's inability to stand in for true, lived experience.
+end################################################
+
+
+start################################################
+Predicted: 's a way chemistry between the and his lead Michael Fiennes, and there cast is the Girl isribe is McCorm is amanlike, a extreme.,isisisis.is,,,isisisisis
+True: There's no palpable chemistry between Lopez and male lead Ralph Fiennes, plus the script by Working Girl scribe Kevin Wade is workmanlike in the extreme.
+end################################################
+
+
+start################################################
+Predicted:  work-class, well engaging andollywood that's captures the genresfire, gripping genres -- action action break and the crime film.,,,,,,,,,,,,,,,,,,, isisisisis is
+True: A first-class, thoroughly involving B movie that effectively combines two surefire, beloved genres -- the prison flick and the fight film.
+end################################################
+
+
+start################################################
+Predicted:  movie is a good,'s't have on its original of being at a blank screen.'s's...,isisis isisisisisadd.....
+True: The film is so bad it doesn't improve upon the experience of staring at a blank screen.
+end################################################
+
+
+start################################################
+Predicted:  has hisedy are quite a convincing case for the merits of the two moviesth-century actionnotes.,,,,,,,,,,,,isisisisisisisisisisisisisind....
+True: Weiss and Speck never make a convincing case for the relevance of these two 20th-century footnotes.
+end################################################
+
+
+start################################################
+Predicted:  great of the Year selection,,,,,, is, is. s s s ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: Another Best of the Year selection.
+end################################################
+
+
+start################################################
+Predicted: 's a a rather shapeless affair time.,,,,,,..,,,,, to to to to to to to to,,,,,,,,,,,,,...... to to to to to
+True: It's all a rather shapeless good time...
+end################################################
+
+
+start################################################
+Predicted:  as, different verse, samea been a, but it'sa been worse.'s's.........isisisisis is, is is is, just a is............
+True: Same song, second verse, coulda been better, but it coulda been worse.
+end################################################
+
+
+start################################################
+Predicted: 'm the way, of this picture.,,,,,,,.. is,,,, is is,,,,,,,,,,... a...............................
+True: I love the robust middle of this picture.
+end################################################
+
+
+start################################################
+Predicted: 's a the Spielberg, that's finally, is whatally satisfying.,,,.. is is,,,,,is, -- -- that that that that that that -- that that that that that that that that that that that that that that that
+True: That's not vintage Spielberg and that, finally, is minimally satisfying.
+end################################################
+
+
+start################################################
+Predicted:  movie alone is worth the price of admission.,,,,,,,,, g............... -- -- -- -- -- -- -- -- -- -- -- ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: The soundtrack alone is worth the price of admission.
+end################################################
+
+
+start################################################
+Predicted:  of a Lane have used a good moreming, and times 15 minutes -- have cut to gone one would notice. but instead's a solidurable exerciseifle.....isisis,,isisisisis
+True: Mostly Martha could have used a little trimming -- 10 or 15 minutes could be cut and no one would notice -- but it's a pleasurable trifle.
+end################################################
+
+
+start################################################
+Predicted:  all most of us, it through amer is movie hours is to a more than a.,,.....is.is,'' -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: For the rest of us, sitting through Dahmer's two hours amounts to little more than punishment.
+end################################################
+
+
+start################################################
+Predicted: eaturing a cast talenteductive and by a talented American Auteu,, whoTheolo'' is a subject subject as afmann's `Sills'' and a delic energy affecting energy.,,,,.
+True: Featuring a dangerously seductive performance from the great Daniel Auteuil, ``Sade'' covers the same period as Kaufmann's ``Quills'' with more unsettlingly realistic results.
+end################################################
+
+
+start################################################
+Predicted:  movie is a everyone who like't stand loving the, but those movieatical devote that into it is,..,,,,,,,,,isisisisisisisis,,isisis,,ind
+True: The movie is for fans who can't stop loving anime, and the fanatical excess built into it.
+end################################################
+
+
+start################################################
+Predicted:  movie is a a look, but only're't have a more than a few hours thrills from your entertainment entertainment.'s,.....,,,.....isisisisisisisis.... -- --
+True: The Ring is worth a look, if you don't demand much more than a few cheap thrills from your Halloween entertainment.
+end################################################
+
+
+start################################################
+Predicted: ifully acted, beautifullyulously affectingentimental and.drama.,,,, is is is is,,, is is is,,, is. -- -- -- to to to to. ( ( ( ( (.
+True: Beautifully observed, miraculously unsentimental comedy-drama.
+end################################################
+
+
+start################################################
+Predicted:  a theling Met My Father is is is its engaging performances, is its's's ability to put into a unknown, of his-child relationships and beinginching.'sisisis,,,isis
+True: What makes How I Killed My Father compelling, besides its terrific performances, is Fontaine's willingness to wander into the dark areas of parent-child relationships without flinching.
+end################################################
+
+
+start################################################
+Predicted:  is assembled and is on to satisfy on the' charismatic to be the Lecter. and and if it is done clue inclination to be a moral act.,,,,,,,is
+True: This hastily mounted production exists only to capitalize on Hopkins' inclination to play Hannibal Lecter again, even though Harris has no immediate inclination to provide a fourth book.
+end################################################
+
+
+start################################################
+Predicted: ock is ` lack of focus and focus is leadsails the film.,,,,,,,,,,,,,... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Bullock's complete lack of focus and ability quickly derails the film.1
+end################################################
+
+
+start################################################
+Predicted:  a bland twist that's as thiny as a-lane old noodlesridge. sort' attempts are and, say, are so over the projectfunfortunatelyAmericanableable'' affair. is is is is
+True: ... a plotline that's as lumpy as two-day old porridge... the filmmakers' paws, sad to say, were all over this ``un-bear-able'' project!
+end################################################
+
+
+start################################################
+Predicted: ueingly be the best movie of man has made in women in the of the Dolls.,,,,, is is.,.....isisis', is... --,,,,. -- -- -- --
+True: Crush could be the worst film a man has made about women since Valley of the Dolls.
+end################################################
+
+
+start################################################
+Predicted: assuring, but andifting.,,,,,, is is is is,,,,,,,,,,,,,,,, a. the the a..................................
+True: Reassuring, retro uplifter.
+end################################################
+
+
+start################################################
+Predicted: accid,, derivativeatingly slow.,,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,,............
+True: Flaccid drama and exasperatingly slow journey.
+end################################################
+
+
+start################################################
+Predicted:  movie is have far beyond its core demographic.,,,,,,,.. is is's's its its to to to to to to..............................................
+True: The Movie will reach far beyond its core demographic.
+end################################################
+
+
+start################################################
+Predicted:  did it ever get made?,,,,, is. is,,,,,,,,,,,,,,,,,,, it it it it.........
+True: How did it ever get made?
+end################################################
+
+
+start################################################
+Predicted: 'm the way direction, the love the old stuff.,,,,,.....is is is,,,,,,,,,,,,,,,, in in in..........
+True: I like the new footage and still love the old stuff.
+end################################################
+
+
+start################################################
+Predicted: 's feelsirts with the masochism, but it rest is the interest is the interactionness -- is aaded by.'s,,,...,,,...,,isisisisisisisisis,lo...
+True: It briefly flirts with player masochism, but the point of real interest -- audience sadism -- is evaded completely.
+end################################################
+
+
+start################################################
+Predicted: a Rock Bears really be as bad as its trailers?,,,,,, to to to to to to to to to to to to to to to to
+True: Could The Country Bears really be as bad as its trailers?
+end################################################
+
+
+start################################################
+Predicted:  its, it movie is like like.,,,,,,,,,, because because,,,,,,,,,,, a....................................
+True: At times, the movie looks genuinely pretty.
+end################################################
+
+
+start################################################
+Predicted: 's on how well youulence isags work into your life concept.,,,,,,,,,,, is's's,isroman g---- -- -- --sen --... -- ---
+True: It depends on how well flatulence gags fit into your holiday concept.
+end################################################
+
+
+start################################################
+Predicted:  movieest, most destructive movie of the's first quarter has,,,,,...,,......,,,,,,,,,.,,,,.. the the... the..
+True: The stupidest, most insulting movie of 2002's first quarter.
+end################################################
+
+
+start################################################
+Predicted:  movie is to dead weight,,,,,,, is is,,,,,,,,,,,,,,,,,,,,,,, a............ a a a a
+True: The film seems a dead weight.
+end################################################
+
+
+start################################################
+Predicted: arkling, intox intox, comedy,.al, like much like a young Michael DeNiro, it's like film is be be called TheThe Godband's a Bickle'.'sis,.
+True: Sparkling, often hilarious romantic jealousy comedy... Attal looks so much like a young Robert DeNiro that it seems the film should instead be called `My Husband Is Travis Bickle'.
+end################################################
+
+
+start################################################
+Predicted: 'm not to and watch out the movie 10 minutes of but it were the likeulsive than the original 10 minutes 40 minutes.'s,,.....,,.....isisisisisisislo......
+True: I did go back and check out the last 10 minutes, but these were more repulsive than the first 30 or 40 minutes.
+end################################################
+
+
+start################################################
+Predicted:  work movie,'s neither only derivativeatchable, but also bafflistenable.,,,,,,..,is,.- -- -- -- -- --... -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A lousy movie that's not merely unwatchable, but also unlistenable.
+end################################################
+
+
+start################################################
+Predicted:  of the most action of the year, a stunning of the power faced happiness and by gay million women, and man one.,....,,,....,isisisisisisis,......... --
+True: One of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals... a psychological masterpiece.
+end################################################
+
+
+start################################################
+Predicted:  work,, a and and compellingly.. the to wander transported into a world of aladyslaw Ketailace, a is a only brilliant brilliantist, but also brilliant human being.'s.
+True: A strong script, powerful direction and splendid production design allows us to be transported into the life of Wladyslaw Szpilman, who is not only a pianist, but a good human being.
+end################################################
+
+
+start################################################
+Predicted:  it's the thing deal thing It's't funny, it.,,, is is is is is,is,,,,,,,,,,,,,,,,,,,..................
+True: But here's the real damn: It isn't funny, either.
+end################################################
+
+
+start################################################
+Predicted: utting is be the dead film, but it's a if not sincere.,,.,,,,...isis,..s... -- a....... -- -- -- --......... -- -- -- --.
+True: Qutting may be a flawed film, but it is nothing if not sincere.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderfulboy'swhat if?',,,,, is is is is is is is is is is is,,,,,,,,,,,,,,,, in in.........................
+True: It's a fanboy `what if?'
+end################################################
+
+
+start################################################
+Predicted:  a else to have been lost in the translation. time.,,,,....,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+True: ... something appears to have been lost in the translation this time.
+end################################################
+
+
+start################################################
+Predicted:  a movie, of Fight Club, onlyorn of all context and and curiosityension and moral grand,,,..,,,,,,,,,isisisisisisisisisisisis,roman...
+True: Like a documentary version of Fight Club, shorn of social insight, intellectual pretension and cinematic interest.
+end################################################
+
+
+start################################################
+Predicted:  Hawkinga's thean Quinn, and Michael Berg are a, best andgot in and the they by anan, it movie is the extraordinarylyquently,et isolling about a much- is a wonder surprise one. butlike a,
+True: Stephen Rea, Aidan Quinn, and Alan Bates play Desmond's legal eagles, and when joined by Brosnan, the sight of this grandiloquent quartet lolling in pretty Irish settings is a pleasant enough thing, `tis.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderful and flawed and, with to leave you lump in your throat and itirming your as a the smartest American in in film today.'s,,,,,,,,,isisisis
+True: It's a powerful though flawed movie, guaranteed to put a lump in your throat while reaffirming Washington as possibly the best actor working in movies today.
+end################################################
+
+
+start################################################
+Predicted:  exhilar and affecting introduction to a,,,,,,,,,oco s s s -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ( -- ( ( ( (
+True: An intriguing and entertaining introduction to Johnson.
+end################################################
+
+
+start################################################
+Predicted:  is as predictable as a bland nature Jersey accentbrow comedy.ma has.,.....,,,,,, in in,, in,,,.................................
+True: Everything was as superficial as the forced New Jersey lowbrow accent Uma had.
+end################################################
+
+
+start################################################
+Predicted:  its title in the story, the overall predictable plot, it of genuine movie are me to jump in my chair and and,,,, is..,,,is.............................................
+True: Despite the holes in the story and the somewhat predictable plot, moments of the movie caused me to jump in my chair...
+end################################################
+
+
+start################################################
+Predicted: The did times timesages can you movieping, talented-loved franchise survive?,,,,,, is is, is is to to is is is is is to to is is to to is is.,,. is is is is,
+True: `How many more voyages can this limping but dearly-loved franchise survive?'
+end################################################
+
+
+start################################################
+Predicted:  you it movie were a man-million dollar con- to include a characters,,.., -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: If only the story about a multi-million dollar con bothered to include the con.
+end################################################
+
+
+start################################################
+Predicted: 's aly unfunny and affectinglistertaining. watch a-aged women older men behaving and excess, anding their, andong. another, have on a show. a.'s,,.
+True: It is supremely unfunny and unentertaining to watch middle-age and older men drink to excess, piss on trees, b.s. one another and put on a show in drag.
+end################################################
+
+
+start################################################
+Predicted:  a small movies beforeapse before the movie- the loveackershers,, and looking a sameplate on the tie on but is a like and a guy who has been throughedmurdering since he. has been been to in anything.
+True: Only a few minutes elapse before the daddy of all slashers arrives, still with the boiler suit and white mask, which look remarkably clean for a guy who has been mass-murdering since 1978 but has never been seen doing laundry.
+end################################################
+
+
+start################################################
+Predicted: time is a of those mostplessest of the current,American you're a a movieacky, man, a smartty black woman, a them a, a movie will be a,.'s is is is.
+True: Showtime is one of the hapless victims of the arrogant ``if we put together a wry white man and a chatty black man and give them guns, the movie will be funny'' syndrome.
+end################################################
+
+
+start################################################
+Predicted:  thewarming story is filmmakersively well and have have created from come, their iPhones-, it come it remarkable restraint to make a the of a story drama-wreck...is,,,,isis,
+True: Whatever heartwarming scene the impressively discreet filmmakers may have expected to record with their mini DV, they show a remarkable ability to document both sides of this emotional car-wreck.
+end################################################
+
+
+start################################################
+Predicted:  work movie that every sense of the word. mindless, lifeless, lifelessandering, lifeless, chaotic. and.,,,,.,,,,,,,,,,isisis,,isisisisisisis
+True: A zombie movie in every sense of the word -- mindless, lifeless, meandering, loud, painful, obnoxious.
+end################################################
+
+
+start################################################
+Predicted: 's a, a characters of the life, but it's has the subject matter respectness and respect.,....,,,,,,,,,,isisisisis,isisisisisis
+True: It has fun with the quirks of family life, but it also treats the subject with fondness and respect.
+end################################################
+
+
+start################################################
+Predicted: akovich to be the pictureasslly affecting mood of American comedy. a way. which young. characters-actors. performers script, no-n production.....isisisis,,,,,is
+True: Novak manages to capture a cruelly hilarious vein of black comedy in the situation with his cast of non-actors and a gritty, no-budget approach.
+end################################################
+
+
+start################################################
+Predicted:  the is a brilliantist, it movie is a likeful than a average,!,,,,,,,............................................. -- -- -- -- --............
+True: Since Lee is a sentimentalist, the film is more worshipful than your random E!
+end################################################
+
+
+start################################################
+Predicted:  movie is a entirely devoid in suspense and and and suspense emotional energy.,,,,,,,,,,,,isisisisloisislo -- -- -- -- -- -- -- --......... ( ( ( ( (
+True: The movie is almost completely lacking in suspense, surprise and consistent emotional conviction.
+end################################################
+
+
+start################################################
+Predicted:  Crimes is it art it it movies make, the determined to to make them again but it that's a. a sort.,,,,. is is is is is. is is,, isis,,, isisisisisis
+True: High Crimes knows the mistakes that bad movies make and is determined not to make them, and maybe that is nobility of a sort.
+end################################################
+
+
+start################################################
+Predicted:  it's a long, too convoluted and convoluted's in a muddle.,,..,,,,..,, is is isisisisis and to in in is is...... to to to
+True: But it's too long and too convoluted and it ends in a muddle.
+end################################################
+
+
+start################################################
+Predicted:  is is on me level whatsoever. me.,,,,,isis,',,,,,,, a.'.....'............'... (............
+True: This thing works on no level whatsoever for me.
+end################################################
+
+
+start################################################
+Predicted:  a bland, mysteryon-campus disasterer,,,,,, is is. is is is,,,,theet --the the thethethethe... -- -- -- -- -- -- -- -- -- --
+True: ... a bland murder-on-campus yawner.
+end################################################
+
+
+start################################################
+Predicted:  a to its peers work,'s like paleingly small imitation of a-class American.. a its title, to a little.'s,,,,,,,,,isisisisis
+True: In comparison to his earlier films it seems a disappointingly thin slice of lower-class London life; despite the title... amounts to surprisingly little.
+end################################################
+
+
+start################################################
+Predicted:  of the most action most affecting, humane dramas movies ever made,,,,, is...,,. to to at to at at,............................................
+True: One of the finest, most humane and important Holocaust movies ever made.
+end################################################
+
+
+start################################################
+Predicted: uffers from aambling, inco dialogue, a inability drabness of to the video.,,, is..,,. is, isisis is is,-,s......en,,... ( ( ( (
+True: Suffers from rambling, repetitive dialogue and the visual drabness endemic to digital video.
+end################################################
+
+
+start################################################
+Predicted:  movie is's the film is a most that the most staying resonance. but the the the old. and the is a sort of movie that the movie' have careful careful about their expectations.,,,
+True: The twist that ends the movie is the one with the most emotional resonance, but twists are getting irritating, and this is the kind of material where the filmmakers should be very careful about raising eyebrows.
+end################################################
+
+
+start################################################
+Predicted: ica a that grand a perspective of alie, Michaelelle, but partlyuses the scenes with a sensibility of a love wellmarish crimeytale.is,,,,,,, is
+True: Angel presents events partly from the perspective of Aurelie and Christelle, and infuses the film with the sensibility of a particularly nightmarish fairytale.
+end################################################
+
+
+start################################################
+Predicted:  a of the most compelling action of a love affair ever made to film.,,........ev -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Features one of the most affecting depictions of a love affair ever committed to film.
+end################################################
+
+
+start################################################
+Predicted: 's a personal and intensely it as theills -- itly ev us the poweramental the times.,,,,,,,, is,,,,isisisisisisisisisisisisisisisisis
+True: It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times.
+end################################################
+
+
+start################################################
+Predicted:  more a'mly tried to maintain relevant, I at least remain, I was tell my brainids dro getting... heavy... heavy...,,,,,, is is is is..,,is,,,isisisisis.
+True: Even as I valiantly struggled to remain interested, or at least conscious, I could feel my eyelids... getting... very... heavy...
+end################################################
+
+
+start################################################
+Predicted:  a bland, well actedformed, that,,,,,,,., is,,, is is is,,,,,,,,,...,,,,................................
+True: ... a solid, well-formed satire.
+end################################################
+
+
+start################################################
+Predicted: erves to marks for its courage, it registers by on its merits merits.,,...,,,,..,is is's'... one... one one one one one one one a a a a a a a a a a a
+True: Deserves high marks for political courage but barely gets by on its artistic merits.
+end################################################
+
+
+start################################################
+Predicted: ers Dearaga is a be appreciated as appreciatedasured, its extraordinary ability, warmthity. a as its extraordinaryical ability. the theme. love. is.,,,,,isisisis
+True: Read My Lips is to be viewed and treasured for its extraordinary intelligence and originality as well as its lyrical variations on the game of love.
+end################################################
+
+
+start################################################
+Predicted:  a a wonderful sense of the own, lives, motivations moral. perme it far beyond its if have been a comedyodramaatic disaster slap Achievementingstyle disaster.'s...,,,,,,,,
+True: ... creates a visceral sense of its characters' lives and conflicted emotions that carries it far above... what could have been a melodramatic, Lifetime Channel-style anthology.
+end################################################
+
+
+start################################################
+Predicted: eeks, a and decay work, the to finish,,,,,,, is is isis,. -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Reeks of rot and hack work from start to finish.
+end################################################
+
+
+start################################################
+Predicted:  about many families interact is surprise you.,,.,,, in,,....,,, them.................... to to to to to to to to to to to to to to
+True: Just how these families interact may surprise you.
+end################################################
+
+
+start################################################
+Predicted:  movie is a happens when you're up a, -- a times their size size. and it's't pretty.,,,,,...,,,is..,isisisisisisisisisisisorg....
+True: The Movie is what happens when you blow up small potatoes to 10 times their natural size, and it ain't pretty.
+end################################################
+
+
+start################################################
+Predicted:  more movie,eur like be a patience of Job to find through this movieminable and convolutedapeless and. a Holocaust Americanculture.,,,,,,,,,,,isisisis
+True: Even a hardened voyeur would require the patience of Job to get through this interminable, shapeless documentary about the swinging subculture.
+end################################################
+
+
+start################################################
+Predicted: epy, unsettling and affecting.,,,,,,,,, is,,,,,,,,,,,,,,,,,,,,,,,,,,..........
+True: Creepy, authentic and dark.
+end################################################
+
+
+start################################################
+Predicted:  work, comedy that a artistsympathetic, who a who has have be be able stupid as to be involved in a,,,,,,......isisisisisisis,inging --
+True: A lame romantic comedy about an unsympathetic character and someone who would not likely be so stupid as to get involved with her.
+end################################################
+
+
+start################################################
+Predicted: bie's `ile,-dressing is are the Sing Chick with a movie issue from a franchiseative director is,,,,,,..,,,,.,,,isisisisisisisisisisromanind-
+True: Rob Schneider's infantile cross-dressing routines fill The Hot Chick, the latest gimmick from this unimaginative comedian.
+end################################################
+
+
+start################################################
+Predicted:  its worst, movie is aow, the at its best it's a portrait,'s dream exploration of thehood.'s,,,....,,,..,,,isisisisisisisisisisind is
+True: At its worst the screenplay is callow, but at its best it is a young artist's thoughtful consideration of fatherhood.
+end################################################
+
+
+start################################################
+Predicted:  its minutes,'s feelsings along, aance and force.,,,...,,,,..isis is is is.......... to to to to........... -- --...............
+True: At 78 minutes it just zings along with vibrance and warmth.
+end################################################
+
+
+start################################################
+Predicted:  a idiot adventure can have this made down. and it Lee's performance Brown is The the, once last has us movie a sense worthy of being talents.,.,,,..is,,,,,,isis
+True: Only an epic documentary could get it all down, and Spike Lee's Jim Brown: All American at long last gives its subject a movie worthy of his talents.
+end################################################
+
+
+start################################################
+Predicted:  a as affecting and caringacious as a. Rogers,, this knows the 40 task yet quest with a disciplinerenity and determination.,,,,,isisisisisisis... -- -- --
+True: As quiet, patient and tenacious as Mr. Lopez himself, who approaches his difficult, endless work with remarkable serenity and discipline.
+end################################################
+
+
+start################################################
+Predicted:  of being,occhio, the, theamax is have hidden his from everyone.,, is.....is,,, -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Instead of hiding Pinocchio from critics, Miramax should have hidden it from everyone.
+end################################################
+
+
+start################################################
+Predicted:  a wonderful movie that such a talented, and Michael Yioy has made to make his debut debutlanguage debut in a film that derivative acted and so,,,,,,,,isisisisis.
+True: What a great shame that such a talented director as Chen Kaige has chosen to make his English-language debut with a film so poorly plotted and scripted.
+end################################################
+
+
+start################################################
+Predicted:  about everything best action-up action no-school horror film ever the last 20 years.,,,,.....-. to to to to to to to, to to-- to to to to to to to to to to
+True: Just about the best straight-up, old-school horror film of the last 15 years.
+end################################################
+
+
+start################################################
+Predicted: ollling is a compellingingly compelling and. but charismatic, who intelligence intelligence and matched once root root of his brilliant and emotionally-destructating ways self-destructive ways.'s,,,is
+True: Gosling creates a staggeringly compelling character, a young man whose sharp intellect is at the very root of his contradictory, self-hating, self-destructive ways.
+end################################################
+
+
+start################################################
+Predicted: 'm it movie were great, but acting was terrific, the the love wasreal'.,,,,,, is is is isisisis islo.... --,,,,,. -- -- -- -- -- --......
+True: I thought the relationships were wonderful, the comedy was funny, and the love `real'.
+end################################################
+
+
+start################################################
+Predicted:  at times you to sleep than a zombie machine.,,...isis' the the the..... the the The The The The The The the The ( ( ( ( ( ( ( ( ( ( ( ( (
+True: Better at putting you to sleep than a sound machine.
+end################################################
+
+
+start################################################
+Predicted: els a like a movie to a Runner, a a cousin feedfeeder to. Blade original From New York series.'s,,,....,,.....isisorg,isisis.... -- -- -- --
+True: Feels less like a cousin to Blade Runner than like a bottom-feeder sequel in the Escape From New York series.
+end################################################
+
+
+start################################################
+Predicted: legant performed and beautifullyively performed, The film- numbers areize into themes moments into aly affecting and. alike energy.,,,,,,,,,,,,,isisisis
+True: Elegantly produced and expressively performed, the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy.
+end################################################
+
+
+start################################################
+Predicted: ly is a wonderful, but a best of movie Americanhits movie that comes come along a new to ESPN. Magazine.'s,,,,..,,,...,,,isis,,,isisisisisis
+True: Ultimate X is a ride, basically the kind of greatest-hits reel that might come with a subscription to ESPN the Magazine.
+end################################################
+
+
+start################################################
+Predicted: brating by Sundance, the year, of manners is a performances that performances charismatic, glossyib presence.'s hard to beat.'s's,,, is,,,,,,,,,,,isisisisis
+True: Celebrated at Sundance, this slight comedy of manners has winning performances and a glossy, glib charm that's hard to beat.
+end################################################
+
+
+start################################################
+Predicted: , the comedy is a twist point of view is doesn't have in the new era era.,,,,...,....,,,,.,,,,ss,,,,s............
+True: Apparently, romantic comedy with a fresh point of view just doesn't figure in the present Hollywood program.
+end################################################
+
+
+start################################################
+Predicted: 'snes is't be and maintain the mythades of surround characters is his persona have, a marvelous achievement. extraordinaryacity. force..,,,,,,,,,isisis
+True: That Haynes can both maintain and dismantle the facades that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace.
+end################################################
+
+
+start################################################
+Predicted:  movies of the are pop the big one, and other parts are surprisingly.,,. is is is is is is is is isisisisisisisis... -- -- --... -- --... to to -- -- -- -- --
+True: Some elements of it really blow the big one, but other parts are decent.
+end################################################
+
+
+start################################################
+Predicted:  one, have harmed in the making of this movie, but the were made and humiliated audience was made through a. an hour and a half.'s. is is,, is,,,isisisisis-
+True: No French people were harmed during the making of this movie, but they were insulted and the audience was put through torture for an hour and a half.
+end################################################
+
+
+start################################################
+Predicted:  movie of the Sing Home is a equals, side of theesop.,,..,,,, is -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: The simplicity of The Way Home has few equals this side of Aesop.
+end################################################
+
+
+start################################################
+Predicted: ally well acted and a Lane, Richard Gere,,,,, is very very very very veryan very very very very very very very the the thethe the the the the theet [ [ [ [setetetet
+True: Exceptionally well acted by Diane Lane and Richard Gere.
+end################################################
+
+
+start################################################
+Predicted: ong is us much has the power to destroy a, and tear them apart.,,,.. is is- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Dong shows how intolerance has the power to deform families, then tear them apart.
+end################################################
+
+
+start################################################
+Predicted:  work, derivative, film that's violence violence for suspense.,,,,, is is is is is isis is gore gore gore gore gorethe ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: A stupid, derivative horror film that substitutes extreme gore for suspense.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderful American adventure, a wonderful movie to be to theMAX.,,,,,,,,,,isis, -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: It's a great American adventure and a wonderful film to bring to IMAX.
+end################################################
+
+
+start################################################
+Predicted: 's a times better than this.,,,,,..,, -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: It's 51 times better than this.
+end################################################
+
+
+start################################################
+Predicted: 's a watching extended- Bros. comedyumer'sive into a -- and one have a greatest'srol Flynn made wanted to make, but itte Davis never who as the Crawford it have been him if's.,,,.
+True: It's like an old Warner Bros. costumer jived with sex -- this could be the movie Errol Flynn always wanted to make, though Bette Davis, cast as Joan, would have killed him.
+end################################################
+
+
+start################################################
+Predicted:  work movie, a'm sure Home is a good, so itows with energy and insight.,,,,,.......isisisis... to............en............... -- -- -- --en
+True: A miraculous movie, I'm Going Home is so slight, yet overflows with wisdom and emotion.
+end################################################
+
+
+start################################################
+Predicted:  work personal and affecting satire that ev the mood state between the two and of a young aristocracy and the desperate,ness of the working proletariat.,,,,,,,,,,,,isisisis
+True: A fiercely clever and subtle film, capturing the precarious balance between the extravagant confidence of the exiled aristocracy and the cruel earnestness of the victorious revolutionaries.
+end################################################
+
+
+start################################################
+Predicted: 's a if the're watching a movie made's made by a, was made in, it's made good, it it's no made by made again, it it's become a weaker,,,..
+True: It's as if you're watching a movie that was made in 1978 but not released then because it was so weak, and it has been unearthed and released now, when it has become even weaker.
+end################################################
+
+
+start################################################
+Predicted:  exhilar,icle of a grubbing, Yorkers, their inability failuresveless waysups.,,,,.....isis,,. s -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Anemic chronicle of money grubbing New Yorkers and their serial loveless hook ups.
+end################################################
+
+
+start################################################
+Predicted:  to a brilliant screen, big heart, this movie comedy is is a of fun. all ages,,.........isis,isisisis,,,,... --
+True: Thanks to a small star with big heart, this family film sequel is plenty of fun for all.
+end################################################
+
+
+start################################################
+Predicted:  it'm been that make the light on in night, now on,,,.....' and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+True: And I've decided to leave a light on every night from now on.
+end################################################
+
+
+start################################################
+Predicted: eaturing in a about a rung heapile, it can swear you were watching a playingailing feces feces at you.,,,.....,,is...isisisisisisisisisisisbuster.an
+True: Festers in just such a dungpile that you'd swear you were watching monkeys flinging their feces at you.
+end################################################
+
+
+start################################################
+Predicted: -rehearsed and lifeless,,,,,,, is is-,,,,,.,,,,,,,,.....................................................
+True: under-rehearsed and lifeless
+end################################################
+
+
+start################################################
+Predicted:  what you'd expect from a guy named Kevinaos.,,,,.., B -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- fucking fucking fucking fucking fucking fucking -- -- -- -- -- -- * * * * *
+True: Exactly what you'd expect from a guy named Kaos.
+end################################################
+
+
+start################################################
+Predicted:  you andlock puppetister Woody Wood had been made a movie about a girl, it would would have a lot like this one and. but from a Rice's best, Sing Chronicles.is,,,,,,
+True: If legendary shlockmeister Ed Wood had ever made a movie about a vampire, it probably would look a lot like this alarming production, adapted from Anne Rice's novel The Vampire Chronicles.
+end################################################
+
+
+start################################################
+Predicted:  all who whom the movie ` Allen is a a sacred of a,, this it, sometimes sometimes poignant touching, the's is a movie experience.'s,,,,,,,,isisis,
+True: For those for whom the name Woody Allen was once a guarantee of something fresh, sometimes funny, and usually genuinely worthwhile, Hollywood Ending is a depressing experience.
+end################################################
+
+
+start################################################
+Predicted: og is a picture of a, aless energy, it few days before she dies.,,......et......
+True: Bella is the picture of health with boundless energy until a few days before she dies.
+end################################################
+
+
+start################################################
+Predicted:  movie of the movie is in sense to affords to see a and a is happens as executive producer, to a talents, assuredd persona and persona to.isisisisis,,isisisisis
+True: The fun of the movie is the chance it affords to watch Jackson, who also served as executive producer, take his smooth, shrewd, powerful act abroad.
+end################################################
+
+
+start################################################
+Predicted:  a have been a comedy satire satire, instead a as dull as a week's Oscar of Vanity.,......,,,,,,,,.romanh...,,,,... -- -- -- --
+True: What should have been a cutting Hollywood satire is instead about as fresh as last week's issue of Variety.
+end################################################
+
+
+start################################################
+Predicted: ant is a of insightes into the relationships, but there's few glimps to thearcinsky, and instead, picture's us to a engagingless,odgepodge of,..is,,,,
+True: Cox offers plenty of glimpses at existing photos, but there are no movies of Nijinsky, so instead the director treats us to an aimless hodgepodge.
+end################################################
+
+
+start################################################
+Predicted:  workyah is achievesens her charismaa persona enough to make a chemistry with a.'s's,.,, is is' -- -- -- to. to................ --............
+True: Aaliyah rarely dampens her diva persona enough to spark genuine chemistry with Townsend.
+end################################################
+
+
+start################################################
+Predicted: . Lopezoderbergh is best is direction style are me as a assured affectingpressively assuredussy. pretentious.'s,,,,.,,,,..,isisisisisisisisis is... -- the
+True: Mr. Soderbergh's direction and visual style struck me as unusually and unimpressively fussy and pretentious.
+end################################################
+
+
+start################################################
+Predicted: azel tov is the movie that a man, loveous life, on the islandiddish stage,,,,.,,,,,,,isisisisisisisisisisisisis,.-
+True: Mazel tov to a film about a family's joyous life acting on the Yiddish stage.
+end################################################
+
+
+start################################################
+Predicted:  a be a great loss if not for the terrific performances by place in the same's edges.,,...........'...,,en,,,,,,,,,,,,,,,
+True: ... would be a total loss if not for two supporting performances taking place at the movie's edges.
+end################################################
+
+
+start################################################
+Predicted:  exhilar and affectingeningaffecting film. a power attempts of a refugees to in the.S. to camps to find their hopes alive, the,,.,,,,.,,,,isisisis,
+True: An inspiring and heart-affecting film about the desperate attempts of Vietnamese refugees living in U.S. relocation camps to keep their hopes alive in 1975.
+end################################################
+
+
+start################################################
+Predicted: oud, chaotic and ultimately unfunny.,,,, is is is is is is is is is iset at,,,,,,,,,...,,,,......... -- -- -- -- --...... --...
+True: Loud, chaotic and largely unfunny.
+end################################################
+
+
+start################################################
+Predicted: 's a you don't go to the movies for,,,,,,....is,,,,,,,,,,,,,,,,,,,,, because............... to to to
+True: It's everything you don't go to the movies for.
+end################################################
+
+
+start################################################
+Predicted:  deserves a to be a star of the story, but he across as a dull and lifeless.,........isisisisisis.................
+True: Harris is supposed to be the star of the story, but comes across as pretty dull and wooden.
+end################################################
+
+
+start################################################
+Predicted:  is `iest movie most affectingable movie since years.'s,,,...is....... to to to to to to.. to to to to.. a... -- -- -- the the the the...
+True: Allen's funniest and most likeable movie in years.
+end################################################
+
+
+start################################################
+Predicted:  all who have themselves on being, sophisticatederning and, this is be be like a sort time of tea. but. is a certainly to the the most on of ofers will be at asses, off at a hour andand-a-half.'s
+True: For those who pride themselves on sophisticated, discerning taste, this might not seem like the proper cup of tea, however it is almost guaranteed that even the stuffiest cinema goers will laugh their 1*** off for an hour-and-a-half.
+end################################################
+
+
+start################################################
+Predicted: 's a certainly of cynicism in the Little's, a a refreshing. if in a context film market.,,,...,,,,,.,..isisisisisisisisisisisan
+True: There is a refreshing absence of cynicism in Stuart Little 2 -- quite a rarity, even in the family film market.
+end################################################
+
+
+start################################################
+Predicted: 's a holes big enough to au to killer whale to swim through,,,,,,,,,,.isis,,ind,is -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: There are plot holes big enough for Shamu the killer whale to swim through.
+end################################################
+
+
+start################################################
+Predicted:  a remains movingly affecting,,,,,, is is is,,,,,,,,,,,,,,,,,,,,,,,.............................
+True: ... always remains movingly genuine.
+end################################################
+
+
+start################################################
+Predicted:  movie is solid-notch, the'm it will be plenty of Oscar viewers members whooling over the Douglasaola, Michael.'s's,,,,,..,..,,,,,,,isisisisan
+True: The cast is top-notch and I predict there will be plenty of female audience members drooling over Michael Idemoto as Michael.
+end################################################
+
+
+start################################################
+Predicted: irsanner's Co are to have in a contest to see who can out-act-act the other.,,,,...,,,is..isisis,isisisisis....... -- -- --
+True: Kirshner and Monroe seem to be in a contest to see who can out-bad-act the other.
+end################################################
+
+
+start################################################
+Predicted:  is a of those rare movies that's on the interaction, than the. action.. it's a very more because it it.'s..,,,,,,,,isisisisis
+True: This is one of those war movies that focuses on human interaction rather than battle and action sequences... and it's all the stronger because of it.
+end################################################
+
+
+start################################################
+Predicted:  a on the island, it movie is on and the scenery.,,,,,,. is is is is is is is is.. in in in in in in in.......... to to to a to
+True: Like life on the island, the movie grows boring despite the scenery.
+end################################################
+
+
+start################################################
+Predicted: 's a by a performances by a artist director veteran who a gifted newcomer. have inf themselves into a star,/daughter pair.,,,,,is,,,,isisisisis
+True: It's anchored by splendid performances from an honored screen veteran and a sparkling newcomer who instantly transform themselves into a believable mother/daughter pair.
+end################################################
+
+
+start################################################
+Predicted:  exhilaronal,- with'sizes women, simultaneouslyting itself young vulnerable viewer in the year with a taste,-. the wedding.'s,.,,,,,,,,,,,isisis,is
+True: An atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding.
+end################################################
+
+
+start################################################
+Predicted:  more the standards low standards of theat-boy fr, theority Boys is a thoroughlyer.,, is,,,,,,,,is,adï......... --...... -- -- -- -- --
+True: Even by the intentionally low standards of frat-boy humor, Sorority Boys is a bowser.
+end################################################
+
+
+start################################################
+Predicted:  of photography,oit Delhomme's a movie in a colors, but the script are sets are grand.,,,...,,,,isisisisis,,isisisisis,roman......
+True: Director of photography Benoit Delhomme shot the movie in delicious colors, and the costumes and sets are grand.
+end################################################
+
+
+start################################################
+Predicted:  movie thing of'll find from this movieppy affair chaotic affair is be from the comedyles. and of them --'s,,,...,,,,.,,,isisisisisisisisisisets --
+True: The only entertainment you'll derive from this choppy and sloppy affair will be from unintentional giggles -- several of them.
+end################################################
+
+
+start################################################
+Predicted:  movie is as a reminder reminder capsule, remind us of the power power of by the entire people....,,,.,,,,isisisisisisis..........
+True: The film serves as a valuable time capsule to remind us of the devastating horror suffered by an entire people.
+end################################################
+
+
+start################################################
+Predicted:  workweet comedy comedy that a altru, the is while it's not be the most's most pieces, is a a much a seeing.,,,,,,,,,,,isisisis
+True: A bittersweet contemporary comedy about benevolent deception, which, while it may not rival the filmmaker's period pieces, is still very much worth seeing.
+end################################################
+
+
+start################################################
+Predicted: al is the hard to make a a comedy. serious drama.,,....,,,. is is is is is and is is.. is,, in,.......
+True: Attal pushes too hard to make this a comedy or serious drama.
+end################################################
+
+
+start################################################
+Predicted: olatedle isuppert iss as a star,ika, Mir Wglinsky. a marvelly talent talent. a of theabrol's most compelling psychological dramas.'s,,,,,is
+True: Isabelle Huppert excels as the enigmatic Mika and Anna Mouglalis is a stunning new young talent in one of Chabrol's most intense psychological mysteries.
+end################################################
+
+
+start################################################
+Predicted:  work movie with big big impact.,,,,,, is is isad is to to,,,,,,,,,,,,,.. a.....................................
+True: A small movie with a big impact.
+end################################################
+
+
+start################################################
+Predicted:  is, brilliantical and feature is aa Gosari is on pictureently of women-aged women are don have sex and their worldauc,ise on mannersuality.,.,,,,,,,
+True: This bold and lyrical first feature from Raja Amari expands the pat notion that middle-aged women just wanna have fun into a rousing treatise of sensual empowerment.
+end################################################
+
+
+start################################################
+Predicted: ographed by a warmth and aently performed, ultimately with uninematic.,,,,,,,,,,,isisisisis,,,-- film s s -- -- -- --............ -- -- -- -- --
+True: Photographed with melancholy richness and eloquently performed yet also decidedly uncinematic.
+end################################################
+
+
+start################################################
+Predicted:  Arnold Schwarzenegger a a to the contain,, and a cast more than paid to the visual and,,...,,,,,,,,isisisisisisisisis is isisisisisisis
+True: Hey Arnold! is now stretched to barely feature length, with a little more attention paid to the animation.
+end################################################
+
+
+start################################################
+Predicted:  that, it just gets boring and maudlin.,,,,,.. is.,,,,,,,,,,,,,,,,,,,,,,,,...,,,,,
+True: After that, it just gets stupid and maudlin.
+end################################################
+
+
+start################################################
+Predicted: ods along, never the sense humor, the-popping visuals that have made theike a a cult hero.,,,,,,..,,,,,,,isisisisisis,isisisis,,...
+True: Plods along, minus the twisted humor and eye-popping visuals that have made Miike... a cult hero.
+end################################################
+
+
+start################################################
+Predicted: ress me a moviefully crafted and beautifully polished and well piece. about as slick as affecting as aThehunter' from.,,,,,,,isis,,,,isisisisis
+True: Impresses as a skillfully assembled, highly polished and professional adaptation... just about as chilling and unsettling as `Manhunter' was.
+end################################################
+
+
+start################################################
+Predicted:  all most part, it's a bland of astonishing genius. with clear of the-jerk reactions and reflex reflex.'s's,,... is,,,..,,,isisisis,isisis is isis --
+True: For the most part, it's a work of incendiary genius, steering clear of knee-jerk reactions and quick solutions.
+end################################################
+
+
+start################################################
+Predicted: 's a acted, andly directed and and ultimately have been scripted by someone who knows graduated from college school.,,,,..,,,,,,,,,,isisisisisisisisisisislo
+True: It's badly acted, blandly directed, and could have been scripted by someone who just graduated from elementary school.
+end################################################
+
+
+start################################################
+Predicted:  movie of movie that which you if you is the main is a sort chemistry searching to do, the come home the movie thatperfect conclusion. sunset.'sisisisisis,,,,,,, isis
+True: The sort of picture in which, whenever one of the characters has some serious soul searching to do, they go to a picture-perfect beach during sunset.
+end################################################
+
+
+start################################################
+Predicted:  its titleamblingous title, the is a conventional as a can ad. as conventional as a break.,,,,,,,,,,,,isisisisisisisisisisisisis --
+True: Despite its raucous intent, XXX is as conventional as a Nike ad and as rebellious as spring break.
+end################################################
+
+
+start################################################
+Predicted:  a bland-coaster ride, a movie.,,,,,,..,,,,,,,,,,,,,,,,,,,,,,,, this.....................
+True: ... a roller-coaster ride of a movie
+end################################################
+
+
+start################################################
+Predicted:  work and vibrant and to a wonderful human impulse. onely realized and beautifully recorded.'s's,,,is, is -- -- -- -- -- --et -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A colorful, vibrant introduction to a universal human impulse, lushly photographed and beautifully recorded.
+end################################################
+
+
+start################################################
+Predicted: en's navig a, a levels, the film that is neither gripping and baff.'s.....isislo.... --. -- -- --en -- -- -- -- -- -- -- -- -- -- --
+True: Audiard successfully maintains suspense on different levels throughout a film that is both gripping and compelling.
+end################################################
+
+
+start################################################
+Predicted:  more movies will be likely find find the they're seeking in the is Day is it movie is the suspenseills and suspense.'s,,,..,,,...,,isisisisisisis... -- -- -- --
+True: Even horror fans will most likely not find what they're seeking with Trouble Every Day; the movie lacks both thrills and humor.
+end################################################
+
+
+start################################################
+Predicted:  that, just a and tedious and a game play. a college history course.,,,,,,....................anan -- --an.... -- -- --...
+True: After that it becomes long and tedious like a classroom play in a college history course.
+end################################################
+
+
+start################################################
+Predicted:  is a stuff and and. and to beench your thirst of a audience hungry's its original ofbusters.,,,,,,..,,,,,,,,,,isisisisisisisisisisisis
+True: This is cool, slick stuff, ready to quench the thirst of an audience that misses the summer blockbusters.
+end################################################
+
+
+start################################################
+Predicted:  II is a brilliant director, a star, but it's from a,-uation.,, is..,isis is isis -- --... -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Blade II has a brilliant director and charismatic star, but it suffers from rampant vampire devaluation.
+end################################################
+
+
+start################################################
+Predicted:  work, chaotic, ugly movie that any redeem its characters oros hitting a targetible target.,,,,.......isisisis... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A loud, ugly, irritating movie without any of its satirical salvos hitting a discernible target.
+end################################################
+
+
+start################################################
+Predicted:  allggieTales fans, the is a likeizing than a Thanksgiving dish of aparagus.,,..,,,,,,,,isisisisisisisisisisisisisrug- --
+True: For VeggieTales fans, this is more appetizing than a side dish of asparagus.
+end################################################
+
+
+start################################################
+Predicted:  it's itself as a year turning point of the 20th century, it it to and again to the of a, the streets, it's aingly slow.,,,,,,,,
+True: While it regards 1967 as the key turning point of the 20th century, and returns again and again to images of dissidents in the streets, it's alarmingly current.
+end################################################
+
+
+start################################################
+Predicted:  work wonderful film, with stunning animation.,,,,,,,,,, to to to to,, to to to,,,,,,,,,,,,,,,............... the the......
+True: A truly wonderful tale combined with stunning animation.
+end################################################
+
+
+start################################################
+Predicted:  remotely in nothing, like the few senseiness that feels when a trapped through a maze, convolutedordid movie. characters, drugs, andarice, sex relationships.,.isis,,,, is
+True: Nothing sticks, really, except a lingering creepiness one feels from being dragged through a sad, sordid universe of guns, drugs, avarice and damaged dreams.
+end################################################
+
+
+start################################################
+Predicted: Myone'' is a wonderful, engaging little at a eraity. a world that'sves on artificiality.'s,,.,,,is.,,,isisisisisisisisisisisisis
+True: ``Simone'' is a fun and funky look into an artificial creation in a world that thrives on artificiality.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderfuloot watching the Rock flomping aumbo, and and them arrow out of his back, and then fromathed. a fire.,,isisisisisis,,,isisisisisis
+True: It's a hoot watching The Rock chomp on jumbo ants, pull an arrow out of his back, and leap unscathed through raging fire!
+end################################################
+
+
+start################################################
+Predicted:  itoo iss heavily from the Blade Bridges Blade Thing of the Lambs, it's to be a a sense of suspense suspense and aismscale grand that are you audience in., is,,,
+True: While Tattoo borrows heavily from both Seven and The Silence of the Lambs, it manages to maintain both a level of sophisticated intrigue and human-scale characters that suck the audience in.
+end################################################
+
+
+start################################################
+Predicted:  work of a artist.,,,,,,, is iset.................. s s s s ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: A portrait of an artist.
+end################################################
+
+
+start################################################
+Predicted:  a by Michael P, Michael Berg. Lopez, the script by Michael, it is, determined-consuming,eyedys-on-the-time, is to too hard to ends nowhereiring. the time at all.,,,..
+True: As written by Michael Berg and Michael J. Wilson from a story by Wilson, this relentless, all-wise-guys-all-the-time approach tries way too hard and gets tiring in no time at all.
+end################################################
+
+
+start################################################
+Predicted: 's a funn American of the year, far, and kind against which all other Best Picture contenders should be measured.'s,,,...,,,,.,,isis,loisisisis....... -- -- --
+True: It's the best film of the year so far, the benchmark against which all other Best Picture contenders should be measured.
+end################################################
+
+
+start################################################
+Predicted:  is a of those most disappointments of the year.,,,,,,...,,... film...--.'... ( (''''''... ( ( ( ( ( ( ( ( ( (
+True: This is one of the biggest disappointments of the year.
+end################################################
+
+
+start################################################
+Predicted: 's fails to engage us.,,,,,,,,,,,,,,,,,,,,,,........................... the......... the the the
+True: It never fails to engage us.
+end################################################
+
+
+start################################################
+Predicted: is Borges a of the old of his warfare war on and alienationly obsession, stunning-thin, fork.'s with a and historical and historical discord.,,isisisis,,,,,,, is
+True: Denis forges out of the theories of class - based rage and sisterly obsession a razor-sided tuning fork that rings with cultural, sexual and social discord.
+end################################################
+
+
+start################################################
+Predicted:  movie is by from soon as ito testosterone and take themselves.,,,,,..,,,,.is............. -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: The movie slides downhill as soon as macho action conventions assert themselves.
+end################################################
+
+
+start################################################
+Predicted:  than, more emotional, more more satisfying. the originaly-eyed original.'s's,,,...,is ising... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: More romantic, more emotional and ultimately more satisfying than the teary-eyed original.
+end################################################
+
+
+start################################################
+Predicted:  a original of theard's movies,'s a ravishing, intellectually, andenetrable.,,,,,,,,,,,,,,isisisisisisisis isisisisisisis
+True: Like the best of Godard's movies... it is visually ravishing, penetrating, impenetrable.
+end################################################
+
+
+start################################################
+Predicted:  movie effect is the film is intoxulsive and depressing.,,,,,... is islo... film film and to to the the therererere to the to torerere to to to -- -- --rere (re
+True: The cumulative effect of the movie is repulsive and depressing.
+end################################################
+
+
+start################################################
+Predicted: els a a more so much as a middle-aged slapiemaker. attempt to make himself with a, sophisticated-naked women.,. is,, is,,,,,isisisisis
+True: Feels like nothing quite so much as a middle-aged moviemaker's attempt to surround himself with beautiful, half-naked women.
+end################################################
+
+
+start################################################
+Predicted:  work good movie, with in parts, with a too much focus on the preparation and aloo construction.,,,,,,,,,,,,isis,isisisis,, isisisisisis
+True: A very long movie, dull in stretches, with entirely too much focus on meal preparation and igloo construction.
+end################################################
+
+
+start################################################
+Predicted:  a, the is a rare creature who a action hero who a manners, a a who has that he is more than a..,,,,,,,,,,,,,,isisisisis
+True: In XXX, Diesel is that rare creature -- an action hero with table manners, and one who proves that elegance is more than tattoo deep.
+end################################################
+
+
+start################################################
+Predicted: 'm not sure if is be longer to warm, the onelt on my Knoxville's forehead, the murderouscontrol device, the own tortured psyche.isisisisisis,,,isisisisis
+True: I'm not sure which will take longer to heal: the welt on Johnny Knoxville's stomach from a riot-control projectile or my own tortured psyche.
+end################################################
+
+
+start################################################
+Predicted:  it as is have a point way to go, it reaches its point of itsassity and the film Harry Powers filmvaganza, it's a remotely remotely remotely the.'s grand, of wonder.'s,is
+True: While Serving Sara does have a long way to go before it reaches the level of crudity in the latest Austin Powers extravaganza, there's nothing here to match that movie's intermittent moments of inspiration.
+end################################################
+
+
+start################################################
+Predicted: 's a to put of a who has been puberty and finding the humor appealing theackers compelling The lives amusing, but alone funny.,,,,,,,,isis,,,,isisisis,
+True: It's difficult to conceive of anyone who has reached puberty actually finding the characters in Slackers or their antics amusing, let alone funny.
+end################################################
+
+
+start################################################
+Predicted: 's fails, not fully.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.........
+True: It never is, not fully.
+end################################################
+
+
+start################################################
+Predicted:  surprisingly is itcover Jackly a as but only more so, it it the Powers and, it it's also a of the most, funnvier ands of come along in a time...
+True: Not only is Undercover Brother as funny, if not more so, than both Austin Powers films, but it's also one of the smarter, savvier spoofs to come along in some time.
+end################################################
+
+
+start################################################
+Predicted: 's be noted that the film design is executioniors are the movie mansion are stunning than a sum. theily ev.'s's,,,.,,,,,,,,isisisis,,isisisisis,
+True: It should be mentioned that the set design and interiors of the haunted vessel are more than effectively creepy and moodily lit.
+end################################################
+
+
+start################################################
+Predicted:  a exception of a ofingly amusing andations, theric the Entertainer, a, father, there's't much wholeing moment here.'sis,isisis,,,,isisisisan
+True: With the exception of some fleetingly amusing improvisations by Cedric the Entertainer as Perry's boss, there isn't a redeeming moment here.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderful little movie, a dialogue and cleverable leads.,,,, is is is is,,,isisis. -- -- -- -- -- -- --... the....... --... -- -- -- -- --......... --...
+True: It's a funny little movie with clever dialogue and likeable characters.
+end################################################
+
+
+start################################################
+Predicted: My Reasonsations'' is a own close, but it ultimately slow and come to the point.,.......,,isis,......... -- --.... -- -- -- -- --
+True: ``13 Conversations'' holds its goodwill close, but is relatively slow to come to the point.
+end################################################
+
+
+start################################################
+Predicted:  surprisingly sort of movie that gives appeal to a mainstream audience audience, but it's a certain charm to it way that will it appealing cult benchmark into the pant circuit.,,,,,,,
+True: Not the kind of film that will appeal to a mainstream American audience, but there is a certain charm about the film that makes it a suitable entry into the fest circuit.
+end################################################
+
+
+start################################################
+Predicted:  can away feeling you like, that you movie had more lot of time on to make a convincing case and itself that the Holocaust and a lot more time on the ground impulse of perme at the heart of it story.
+True: You come away wishing, though, that the movie spent a lot less time trying to make a credible case for reports from the afterlife and a lot more time on the romantic urgency that's at the center of the story.
+end################################################
+
+
+start################################################
+Predicted:  movie is a without context, it or historical.,,,,,,,,,,isis,lo... is is is is is is,......,,,,....... -- -- -- -- --............
+True: The movie is virtually without context -- journalistic or historical.
+end################################################
+
+
+start################################################
+Predicted:  that through a movie, derivative-for-TV disaster,, it's me wonder if there deserves his. much that he's to give it own work.isis,,,,,,,is
+True: After sitting through this sloppy, made-for-movie comedy special, it makes me wonder if Lawrence hates criticism so much that he refuses to evaluate his own work.
+end################################################
+
+
+start################################################
+Predicted: uinely affecting and it's a, the kinds of love.,,,....,is, -- -- -- --.., The The The The The The The The ( ( ( ( ( ( ( ( ( ( ( ( (
+True: Genuinely touching because it's realistic about all kinds of love.
+end################################################
+
+
+start################################################
+Predicted:  all the complications, the's all surprisingly predictable.,,,,,,...,- -- -- --en to to to to to to a........................................ -- --...
+True: For all the complications, it's all surprisingly predictable.
+end################################################
+
+
+start################################################
+Predicted: med with a script plan cast, and the get,perfect Strangerster and the sublime brilliant andikaa, Co, the a, a scores like and a best proud.'s.isisisisis is,isis
+True: Armed with a game supporting cast, from the pitch-perfect Forster to the always hilarious Meara and Levy, Like Mike shoots and scores, doing its namesake proud.
+end################################################
+
+
+start################################################
+Predicted: 's be to have you in the theater with a smile on your face.,........,- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: It will guarantee to have you leaving the theater with a smile on your face.
+end################################################
+
+
+start################################################
+Predicted:  movie of the people is palpable another sadeuristic spectacle, a be consumed by forgotten.,,,.........isisislo..is -- --s to to to -- -- -- -- --
+True: The misery of these people becomes just another voyeuristic spectacle, to be consumed and forgotten.
+end################################################
+
+
+start################################################
+Predicted:  work awful movie, a, uglyly inco, visually inco, and disaster,am of TheThe Thing' and ` `iatric `Theream.', is is,is is is,,,,is is isis
+True: A thoroughly awful movie -- dumb, narratively chaotic, visually sloppy... a weird amalgam of `The Thing' and a geriatric `Scream.'
+end################################################
+
+
+start################################################
+Predicted:  of the rareingly stupid actedacted and staggerously affecting and that will usopinghing along in the point marvel to the next, and assembled andily,,,,,,isis,,,,,,,is
+True: One of those staggeringly well-produced, joylessly extravagant pictures that keep whooshing you from one visual marvel to the next, hastily, emptily.
+end################################################
+
+
+start################################################
+Predicted: asured against the any other-minded film, than Blade predecessor-winningeping predecessor,, Silence of the Lambs, this Sparrow is as a exceptional film.,,is,isisisis,,,,,,,is
+True: Measured against practically any like-themed film other than its Oscar-sweeping franchise predecessor The Silence of the Lambs, Red Dragon rates as an exceptional thriller.
+end################################################
+
+
+start################################################
+Predicted:  movie is a redeem for tradition, or correctness or common decency. but it has a else important: respect. the subject, flawed and.'s is,,,,,,,,,isisisisis
+True: The movie has no respect for laws, political correctness or common decency, but it displays something more important: respect for its flawed, crazy people.
+end################################################
+
+
+start################################################
+Predicted:  a strange way, theoyan's done a much.,,,,, is is is is is,isis to to to to to to to to, to to to,,,,......... the......
+True: In a strange way, Egoyan has done too much.
+end################################################
+
+
+start################################################
+Predicted:  that the movie, I can't you that it's a way way to anyone should bother watching the.,,,.....,,,,,...... $ -- -- -- --en... -- -- -- -- --
+True: After seeing the film, I can tell you that there's no other reason why anyone should bother remembering it.
+end################################################
+
+
+start################################################
+Predicted:  movie is a, comic, its exploration of the how much of complicatedeling and time-consuming the work of work is than actual work.'s,,,,,,,,,isisisis
+True: The film is darkly funny in its observation of just how much more grueling and time-consuming the illusion of work is than actual work.
+end################################################
+
+
+start################################################
+Predicted:  a ways, theagaan is aessential Bollywood.,,,,, is is is is,,. is a a a a a a, is is is,,,,,,,.................. the the the the
+True: In some ways, Lagaan is quintessential Bollywood.
+end################################################
+
+
+start################################################
+Predicted: ino's Co are to have gettingpping the ante on each other, but about the characters do. a original.,,,,...,,,....isisisisisisisis...... -- -- --
+True: Pacino and Williams seem to keep upping the ante on each other, just as their characters do in the film.
+end################################################
+
+
+start################################################
+Predicted: 's be auous to call it a masterpiece movie, but it can't that about a of the restlicks. in and out of the theaterxes.,,,,,,,,is
+True: It would be disingenuous to call Reno a great film, but you can say that about most of the flicks moving in and out of the multiplex.
+end################################################
+
+
+start################################################
+Predicted:  movies are be by without being funny, by virtueuring them story. if they were jokes. a comedy, a, setup.,..,,,, is is is,,,isis,,,isisisisisis
+True: Some movies can get by without being funny simply by structuring the scenes as if they were jokes: a setup, delivery and payoff.
+end################################################
+
+
+start################################################
+Predicted: ort is only be us of the crime dramas without becoming one itself.,,,,..,,,,,is' -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Narc can only remind us of brilliant crime dramas without becoming one itself.
+end################################################
+
+
+start################################################
+Predicted: ort is a wonderful-bull movieback to thes action films,,,,,,,,,,is is film s s s s -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Narc is a no-bull throwback to 1970s action films.
+end################################################
+
+
+start################################################
+Predicted: riguing and affecting intoxicating.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, this............................
+True: Intriguing and downright intoxicating.
+end################################################
+
+
+start################################################
+Predicted:  movie, of a two of the intelligence intelligence accomplishment of the film film is a throughout but the emotional effect is a little flat. the generic that's quite settles. goods vision.'s.,,.,,,,
+True: The wonderful combination of the sweetness and the extraordinary technical accomplishments of the first film are maintained, but its overall impact falls a little flat with a storyline that never quite delivers the original magic.
+end################################################
+
+
+start################################################
+Predicted:  the most compelling movie about the's Thatletis?ull? is that it's a generic movie made by someone who obviously has nothing about crime, is,,,,,,,,,isisis
+True: Perhaps the most annoying thing about Who Is Cletis Tout? is that it's a crime movie made by someone who obviously knows nothing about crime.
+end################################################
+
+
+start################################################
+Predicted:  a to being big on itsity, subject, and together a characters, love, love, love -- a new context -- thiso & Stitch is a new of other strengths that show.. itsgoers. original and wiseaded.
+True: In addition to scoring high for originality of plot -- putting together familiar themes of family, forgiveness and love in a new way -- Lilo & Stitch has a number of other assets to commend it to movie audiences both innocent and jaded.
+end################################################
+
+
+start################################################
+Predicted:  movie and is a funny, the funny bones. to the charismatic and charismatic moving presence by the Griffiths,,,,..,,,,,,,,,,isisisis,isisisisisisis
+True: The quirky drama touches the heart and the funnybone thanks to the energetic and always surprising performance by Rachel Griffiths.
+end################################################
+
+
+start################################################
+Predicted:  its worst, the'sodes in a series of baff bad, effects.,,.,,,,,...is islo..'.', to to... --... --......
+True: At its worst, it implodes in a series of very bad special effects.
+end################################################
+
+
+start################################################
+Predicted: , baffling, the get-go.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,......................
+True: Bad and baffling from the get-go.
+end################################################
+
+
+start################################################
+Predicted:  movie is a marvel, energy energy, a wellcy and and engaging songs. you through a maze experience minutes.'s,,.....,,...,isisisisisisisisisisisisisis
+True: The movie is a blast of educational energy, as bouncy animation and catchy songs escort you through the entire 85 minutes.
+end################################################
+
+
+start################################################
+Predicted:  movie is't that good movie, the remake is it look like a masterpiece.,,,,,,,, is.,isisis,,isacc....... -- -- -- -- -- -- -- -- -- -- -- -- -- --.
+True: The original wasn't a good movie but this remake makes it look like a masterpiece!
+end################################################
+
+
+start################################################
+Predicted:  say taste, the movie is a timing are acrossously close to being caricoses. Coys. the movie generation.'s's,,,.. is,,,..,,,isisisisisisisisis.s...
+True: To my taste, the film's comic characters come perilously close to being Amoses and Andys for a new generation.
+end################################################
+
+
+start################################################
+Predicted:  it film is a the hall elements of the original, the first film is pacing simplicityakiness is a. replaced by a dull,iness of in the sequelest,iddie flicklicks., is is.
+True: Although the sequel has all the outward elements of the original, the first film's lovely flakiness is gone, replaced by the forced funniness found in the dullest kiddie flicks.
+end################################################
+
+
+start################################################
+Predicted:  movie star of this movieifle is that sensepan delivery timing. the star, who Reno. who is a Stallone in a way bath suit-n,,,isisisisis,,,isisisis
+True: The real charm of this trifle is the deadpan comic face of its star, Jean Reno, who resembles Sly Stallone in a hot sake half-sleep.
+end################################################
+
+
+start################################################
+Predicted:  a bland little engaging hilarious-splitting comedy funny and of theally Blonde and Total Dead Gorgeous. with Kevin Perabo as a amounts be a breakthrough as as's,,,.isis,,,,,
+True: ... a cute and sometimes side-splittingly funny blend of Legally Blonde and Drop Dead Gorgeous, starring Piper Perabo in what could be her breakthrough role.
+end################################################
+
+
+start################################################
+Predicted:  is is never fails,, and it's wondersly..,,,,,,,,isis is is is is'... -- to to to to........''...''.........
+True: This method almost never fails him, and it works superbly here.
+end################################################
+
+
+start################################################
+Predicted:  movies are the much the conflicted of dreams of a boys everywhere the fields. if as the young men who sit in them stands...,,,,...,,,isisis,,isisisis,s
+True: Few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands.
+end################################################
+
+
+start################################################
+Predicted: lla clear a engaging warm streak. conviction,bloodedness. all kinds characters, neighborsizens. especially the Chinese**holes.'s,,, is is is is is is....isisetet is is is's -- -- -- -- --
+True: Steers has an unexpectedly adamant streak of warm-blooded empathy for all his disparate Manhattan denizens -- especially the a**holes.
+end################################################
+
+
+start################################################
+Predicted:  movie's Club is a of those movies that's a the ingredients intentions of the world, but lacks it!!gn,,,,,,,,,,isisisisisisisisisisisisisisis,,...
+True: The Emperor's Club is one of those films that possesses all the good intentions in the world, but...
+end################################################
+
+
+start################################################
+Predicted:  movie compelling psychological of the year is a depth to the picture and to the-Semitism. anti-fascism.'s,,,...,,,,..,,,isisisisisisis......... -- --
+True: The most compelling performance of the year adds substantial depth to this shocking testament to anti-Semitism and neo-fascism.
+end################################################
+
+
+start################################################
+Predicted: urenute is't be the con mistake -- a way era. He's a, game gaze, a moral-class, to a American. and man that'sets the entire. moral balance. threatenss its film of the film.
+True: LaBute can't avoid a fatal mistake in the modern era: He's changed the male academic from a lower-class Brit to an American, a choice that upsets the novel's exquisite balance and shreds the fabric of the film.
+end################################################
+
+
+start################################################
+Predicted:  workopic that a, life, a era sense, it into a feels become of us all -- the age of the games,,....,,,......isisis,,isisetet --
+True: A biopic about Crane's life in the classic tradition but evolves into what has become of us all in the era of video.
+end################################################
+
+
+start################################################
+Predicted:  work of breathtaking delic, a it's also a work of breathtaking, affecting poetry.'s,,,,,,.,,,,isisisisisres --...s -- -- -- -- --ss -- -- -- -- -- --
+True: A work of extraordinary journalism, but it is also a work of deft and subtle poetry.
+end################################################
+
+
+start################################################
+Predicted:  a of it as a Pie meets Valium.,,, is.... is k... -- --..................... -- -- --... k to to -- -- -- -- -- -- -- -- -- -- -- -- --
+True: ... think of it as American Pie On Valium.
+end################################################
+
+
+start################################################
+Predicted: olltz a good performance, a film that's't merit it.,,....,,,...,isisisisisisis, isroman........
+True: Gere gives a good performance in a film that doesn't merit it.
+end################################################
+
+
+start################################################
+Predicted:  movie is a gripping as it can get from theacy, slap the point, it's feels being action flow. your brain. it's a sense, lifelessless feel.'s...isis,isis
+True: The movie is as far as you can get from racy, to the point where it almost stops the blood flow to your brain; it has a dull, costumey feel.
+end################################################
+
+
+start################################################
+Predicted:  movieianist is aanski's best film since's,,,,,., to to to to to to to to to to to to to to to,, to to,,,,,,............
+True: The Pianist is Polanski's best film.
+end################################################
+
+
+start################################################
+Predicted:  that Wolfe was right: The can't go home again,,,,, is is is is is is the... the to to to to to to is is.. is is is the... the...........................
+True: Maybe Thomas Wolfe was right: You can't go home again.
+end################################################
+
+
+start################################################
+Predicted:  movie of screen his star accentdrops, fakely pacing, is settles on a consistent tone.,,......isisis.,,, -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: The director, with his fake backdrops and stately pacing, never settles on a consistent tone.
+end################################################
+
+
+start################################################
+Predicted:  is's given the reign over the project is and's it directed, produced, produced -- is beyond me.,,,....,,,,isisisisisanan,,,an,an -- -- -- --
+True: Why he was given free reign over this project -- he wrote, directed, starred and produced -- is beyond me.
+end################################################
+
+
+start################################################
+Predicted:  you're watching trapped by a movie that's you're't a bright, this this Moon is a you.,,,...,,,,isisisisis,,isisis,,... -- -- -- --
+True: If you enjoy being rewarded by a script that assumes you aren't very bright, then Blood Work is for you.
+end################################################
+
+
+start################################################
+Predicted:  a,,, thisre has to be a good, on get his vision vision. he next film. to that original of the originalster..,,,,is,,,is
+True: Like Rudy Yellow Lodge, Eyre needs to take a good sweat to clarify his cinematic vision before his next creation and remember the lessons of the trickster spider.
+end################################################
+
+
+start################################################
+Predicted:  it actingboating persona-cracker persona persona is is a old.,,..... is is by by by by by by by by by by by by by by by by by by..................... the
+True: But his showboating wise-cracker stock persona sure is getting old.
+end################################################
+
+
+start################################################
+Predicted: uitous and't be a thing from but'll just too busy to and movie's direction placed locations sheets and,,,....,,,,,isisisisisisisisisisisis.......
+True: Circuit queens won't learn a thing, they'll be too busy cursing the film's strategically placed white sheets.
+end################################################
+
+
+start################################################
+Predicted:  work of the has wasted on this movieass, low-wattage endeavor.,,...isisis.. -- to,... to -- --.... --. -- '
+True: A lot of talent is wasted in this crass, low-wattage endeavor.
+end################################################
+
+
+start################################################
+Predicted: ain Delpp's ` work registers moving, and a a melancholy and the last and the aive grand sense of urgency. as is while all film that's place two hours to comespool, is a exhilar and affecting.'s
+True: Alain Choquart's camera barely stops moving, portraying both the turmoil of the time and giving Conduct a perpetual sense of urgency, which, for a film that takes nearly three hours to unspool, is both funny and irritating.
+end################################################
+
+
+start################################################
+Predicted:  movie coming of Harry Potter is a masterpiece that superior to its predecessor.,,,,,,,,,,,,,,,is,isisisisev ismu...
+True: The second coming of Harry Potter is a film far superior to its predecessor.
+end################################################
+
+
+start################################################
+Predicted:  is- of a movie isails fromply, the and and baffid tragedy.'s's,,,, is is is,,, is isisisisisisisisisisisisisisis isisisisbusterbuster-
+True: This stuck pig of a movie flails limply between bizarre comedy and pallid horror.
+end################################################
+
+
+start################################################
+Predicted:  movie is doesn be out a viewers who the. but a, and art form that once grand and compelling. and affecting and ultimately. human. a ultimately if grand as a itself's,,,
+True: The film just might turn on many people to opera, in general, an art form at once visceral and spiritual, wonderfully vulgar and sublimely lofty -- and as emotionally grand as life.
+end################################################
+
+
+start################################################
+Predicted:  movie combinationimmeness of are at, stay late. and the every minute with a sensehearted,, a ofudent andicker, and a few sense of warmth's ability spirit to express over the foreignrooge. two.
+True: The delicious trimmings... arrive early and stay late, filling nearly every minute... with a lighthearted glow, some impudent snickers, and a glorious dose of humankind's liberating ability to triumph over a Scrooge or two.
+end################################################
+
+
+start################################################
+Predicted:  movieospitable of the film is the powerness of the art. the to give the a intellectualavistic feel. as if they were made from were been written down by the beginning. time.'s.
+True: The inhospitability of the land emphasizes the spare precision of the narratives and helps to give them an atavistic power, as if they were tales that had been handed down since the beginning of time.
+end################################################
+
+
+start################################################
+Predicted:  more baffling is that it's a,,,,... is -- -- -- -- -- -- -- -- -- -- --...an -- -- -- -- --* -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Even more baffling is that it's funny.
+end################################################
+
+
+start################################################
+Predicted: er and have commended for putting a risk approach to the problems, but he approach to make relevant to the original is is him ast a a new hacknered,.'s provess the original experience. the film's core.'s
+True: Parker should be commended for taking a fresh approach to familiar material, but his determination to remain true to the original text leads him to adopt a somewhat mannered tone... that ultimately dulls the human tragedy at the story's core.
+end################################################
+
+
+start################################################
+Predicted: , fastearing, end, warm.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, in.........................
+True: Hard, endearing, caring, warm.
+end################################################
+
+
+start################################################
+Predicted: 'm no idea with theTheicult'' or, but movies that are a viewer to think them halfway, have with dots, of acting them all spelled out.isisisisis,,isisisisis
+True: I have no problem with ``difficult'' movies, or movies that ask the audience to meet them halfway and connect the dots instead of having things all spelled out.
+end################################################
+
+
+start################################################
+Predicted:  movie itppola andes his love for his is and romantic and and and the kind -- surround define as art. is aiddily intox.,,,,,,,,,,,isis
+True: The way Coppola professes his love for movies -- both colorful pop junk and the classics that unequivocally qualify as art -- is giddily entertaining.
+end################################################
+
+
+start################################################
+Predicted:  the film story and the love story are gripping.,,,,, is,. is film film s s s s s s s s s s s s s ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: Both the crime story and the love story are unusual.
+end################################################
+
+
+start################################################
+Predicted: 's a a good sign when a movie's star is the entirety of the film in a coma.,..,,,,,,,,,,isisisisisisis,,isisis,,.
+True: It's never a good sign when a film's star spends the entirety of the film in a coma.
+end################################################
+
+
+start################################################
+Predicted:  workaky staircase,othic and,,,, is is is is is is is is is is isest is,,,,, in,, in.... in in in at................................
+True: A creaky staircase gothic.
+end################################################
+
+
+start################################################
+Predicted:  you're a fan fan, you if're to a cast who work the movie, slaughteredchered, the GameI. you'll be be thisball. isisis,isis,,,,isis,.
+True: If you're a WWF fan, or you related to the people who watched the robots getting butchered in A.I., you'll probably like Rollerball.
+end################################################
+
+
+start################################################
+Predicted: ort to is the film together,,,,,, is is... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Norton holds the film together.
+end################################################
+
+
+start################################################
+Predicted:  workly, all ages, a of us story story affectingifting story in a stunning fusion of music, images.,,,,..,,,,.,,,,isisisisisisisisisisisir
+True: A breathtaking adventure for all ages, Spirit tells its poignant and uplifting story in a stunning fusion of music and images.
+end################################################
+
+
+start################################################
+Predicted: 's't surprise your gut, it it won not for to -- it's a a blandly funny exercise exercise of a makes a good a joke.'s,,,,,,,,,,, is
+True: It won't bust your gut -- and it's not intended to -- it's merely a blandly cinematic surgical examination of what makes a joke a joke.
+end################################################
+
+
+start################################################
+Predicted: ly a comedy-fans artifact.,,, is is is is is is is ch ch ch ch ('''s ch bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath bath ( (
+True: Largely a for-fans artifact.
+end################################################
+
+
+start################################################
+Predicted:  work so bad it it's becomes the pantheon of the that has the Earth, Fightgirls.,,,,,,,,,,,,,isisisisisisisis is is isisisisisis
+True: A movie so bad that it quickly enters the pantheon of wreckage that includes Battlefield Earth and Showgirls.
+end################################################
+
+
+start################################################
+Predicted:  you're a 25, and a IQ over 90, and you a driver's license, you're be able to find a entertainment on,,...........,,isisisis......
+True: If you're over 25, have an IQ over 90, and have a driver's license, you should be able to find better entertainment.
+end################################################
+
+
+start################################################
+Predicted:  work, of work work,'s on picture of a conflicted who whom the expedience is a foreign foreign policy.'s,,,,,,,,,,,,isisisisisisisisiset -- -- --
+True: A solid piece of journalistic work that draws a picture of a man for whom political expedience became a deadly foreign policy.
+end################################################
+
+
+start################################################
+Predicted:  movieofus ison-the-loose, is the to theinwood is a certainy, cock-hours vibeiness that it.,,isisisisisis,,,,,,,,is
+True: The doofus-on-the-loose banter of Welcome to Collinwood has a cocky, after-hours loopiness to it.
+end################################################
+
+
+start################################################
+Predicted: 's a funniest, comedy since Graffiti Bridge.,,,,, is is is is is,,is is is,,,,,,,,,,,,,,,,,............ a a a a
+True: It's the funniest American comedy since Graffiti Bridge.
+end################################################
+
+
+start################################################
+Predicted: uel Beckett's to the Iranian voting process,,,,,, is is is is is. American American American American American.................. ( ( (...... ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+True: Samuel Beckett applied to the Iranian voting process.
+end################################################
+
+
+start################################################
+Predicted:  work compelling and affecting acted psychological drama.,,,,,,,, is is,,,, is is,,,,,,,,,,,,,,,,,,......................
+True: A strangely compelling and brilliantly acted psychological drama.
+end################################################
+
+
+start################################################
+Predicted: ,atinglling and exasper. watch, but itldahl's Coollander's performances performances are the picture above the level of its original lowaudling comedy..,,,,,,,,
+True: Often gruelling and heartbreaking to witness, but Seldahl and Wollter's sterling performances raise this far above the level of the usual maudlin disease movie.
+end################################################
+
+
+start################################################
+Predicted:  ishralling and is a a once gripping and poignant. and intox-depth exploration of a artistoclastic artist who has born flawedable. to himself closest friends.'s,,,isisisisisis,,,,,
+True: This enthralling documentary... is at once playful and haunting, an in-depth portrait of an iconoclastic artist who was fundamentally unknowable even to his closest friends.
+end################################################
+
+
+start################################################
+Predicted: 'm't know at the movie comedy of the and and I cast buddy,,pps, to make a a and Hardy, a a movie,, isisisisisisis,isisisisis...
+True: I didn't laugh at the ongoing efforts of Cube, and his skinny buddy Mike Epps, to make like Laurel and Hardy'n the hood.
+end################################################
+
+
+start################################################
+Predicted:  its worst, it stakes, calculatingful and knows the manipulative, calculating andot are involved and center,,,....,,,,,is,is,....,,,,... -- -- --.
+True: At its best when the guarded, resentful Betty and the manipulative yet needy Margot are front and center.
+end################################################
+
+
+start################################################
+Predicted: 's to be remembered for Oscar time for crafting a wonderful portrait of a conflicted man.,,.... -- is -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Ford deserves to be remembered at Oscar time for crafting this wonderful portrait of a conflicted soldier.
+end################################################
+
+
+start################################################
+Predicted: 's a what makes missing from theboards is the sense of something bigger, somethingplace point,,,,,........,isiset the the thes that that that thatthethe -- that that that that that
+True: That is essentially what's missing from Blackboards -- the sense of something bigger, some ultimate point.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderful and, in for its way it'sritters away its energy valuable subject matter. a blandal,. aimpressive acting and a direction.isisisisisis,,,,, is
+True: It's a bizarre curiosity memorable mainly for the way it fritters away its potentially interesting subject matter via a banal script, unimpressive acting and indifferent direction.
+end################################################
+
+
+start################################################
+Predicted:  it a extremely personal work, it's aextricably romantic in a era stun rut.,,,,,,,,,,,,isisis,..loa-,--.... the
+True: While obviously an extremely personal work, it remains inextricably stuck in an emotionally unavailable rut.
+end################################################
+
+
+start################################################
+Predicted:  work,witted, occasionally moviesteroff from a cult Planet series series, Thecodile Hunter is a inistic at its worst visceral. is. is,,,,,,,,,,isisis
+True: A dim-witted and lazy spin-off of the Animal Planet documentary series, Crocodile Hunter is entertainment opportunism at its most glaring.
+end################################################
+
+
+start################################################
+Predicted:  movie, the good very good, the rest is downhill bad irritatingimpressive to downrightingly awful.,, is is is is is is,,, isisisisisisisisis is isisisisisisis
+True: The good is very, very good... The rest runs from mildly unimpressive to despairingly awful.
+end################################################
+
+
+start################################################
+Predicted: ical, method, and ultimately entertaining. its aim. The Gardenot is a bland lowctive exercise. a is be why it's so successful. all its in the pant.'s,,,,,,,
+True: Methodical, measured, and gently tedious in its comedy, Secret Ballot is a purposefully reductive movie -- which may be why it's so successful at lodging itself in the brain.
+end################################################
+
+
+start################################################
+Predicted:  of the most compelling action films of come out of China in recent years.'s,.......- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: One of the most exciting action films to come out of China in recent years.
+end################################################
+
+
+start################################################
+Predicted:  Sandler's ` Crazy Nights is on you, and a rash,,,,,,.,,,,isis is is is is is the the.................. -- -- the the... the
+True: Adam Sandler's Eight Crazy Nights grows on you -- like a rash.
+end################################################
+
+
+start################################################
+Predicted:  movie is aic, as pacing predictable pacing predictable Hollywood excess junkmovie excess. but the characters are a awe a sense of exasperja vu than of.,,,isis,,,,,,, is
+True: The film feels formulaic, its plot and pacing typical Hollywood war-movie stuff, while the performances elicit more of a sense of deja vu than awe.
+end################################################
+
+
+start################################################
+Predicted:  aiful, slapdash disaster.,,,,,, is is is...... to to to,,,,,,,,,,, to...,........... -- -- -- -- -- -- -- --
+True: ... pitiful, slapdash disaster.
+end################################################
+
+
+start################################################
+Predicted:  a stands, the's a fine chemistry onscreen, but some fine,, but there much whole lot more.,,,.....,,...isisisisisisisisislo... -- -- -- --
+True: As it stands, there's some fine sex onscreen, and some tense arguing, but not a whole lot more.
+end################################################
+
+
+start################################################
+Predicted: 's a as romantic nor as thrilling as it should be.,,,,...,,,,,,,,,,,,,,,,,,,,,.............. as as... the
+True: It's neither as romantic nor as thrilling as it should be.
+end################################################
+
+
+start################################################
+Predicted: ing to Michael Tapinkoff's starwriter Michael Lee Rubin... a a fine job of updating the's ` wit to a new age.,,,,,,,,,isisisis
+True: Returning director Rob Minkoff... and screenwriter Bruce Joel Rubin... have done a fine job of updating White's dry wit to a new age.
+end################################################
+
+
+start################################################
+Predicted:  movieans are they like,I, a much, and ``si favor'' pretty home'' and they to the,'s's,,... is isisis... isisisisisisisisisisisisis.
+True: The Venezuelans say things like ``si, pretty much'' and ``por favor, go home'' when talking to Americans.
+end################################################
+
+
+start################################################
+Predicted:  you're like the sort of thing, this is a sort of thing all over again.,,.......is isisisis isisis.....
+True: If you already like this sort of thing, this is that sort of thing all over again.
+end################################################
+
+
+start################################################
+Predicted:  exhilar movie,'s have satisfy the most emotionally malleable of filmgoers.'s,....,lo............ -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: An awful movie that will only satisfy the most emotionally malleable of filmgoers.
+end################################################
+
+
+start################################################
+Predicted:  is a extraordinary film, not least because it's by and yet feels universal.,,,,,,,...,.isisisisis. is is... is is... -- --.... -- --... --...
+True: This is an extraordinary film, not least because it is Japanese and yet feels universal.
+end################################################
+
+
+start################################################
+Predicted:  workly named, The ising, shimmer photographedumed and beautifully production is't have for me.,,,,,,,,,,,,,,,isis,isisisis,,isisisisis,
+True: Aptly named, this shimmering, beautifully costumed and filmed production doesn't work for me.
+end################################################
+
+
+start################################################
+Predicted:  youstal is is't a like, it's a engaging and piece.,,,,,,,,,,, -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: If Borstal Boy isn't especially realistic, it is an engaging nostalgia piece.
+end################################################
+
+
+start################################################
+Predicted: iffiniths is that's a rare creatureinary who has proves the standard of her profession.,,...isisisisis.. is... -- --... (......... ( (...... --...
+True: Griffiths proves she's that rare luminary who continually raises the standard of her profession.
+end################################################
+
+
+start################################################
+Predicted:  movie is is gripping, the is the characters. theia with his family.,,.,,.... isa -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: The asylum material is gripping, as are the scenes of Jia with his family.
+end################################################
+
+
+start################################################
+Predicted:  a the way it's done, us, ita isair is star movie is a hooks iniddy with wonder possibilities of being. and a been given in a world culture. a find out the nature is a damn as same as over again.
+True: ... by the time it's done with us, Mira Nair's new movie has its audience giddy with the delight of discovery, of having been immersed in a foreign culture only to find that human nature is pretty much the same all over.
+end################################################
+
+
+start################################################
+Predicted:  a as exciting as watch as a action-place basketball teams playing one another on the final day of the season.'s,......,,....is.et....,,,.,,,,-
+True: ... about as exciting to watch as two last-place basketball teams playing one another on the final day of the season.
+end################################################
+
+
+start################################################
+Predicted:  gone wild, gone civil again,,,,,.,, a. to to to to to to to to to to to..............aa
+True: Girls gone wild and gone civil again
+end################################################
+
+
+start################################################
+Predicted:  say theze That is a Niro's best film since Meet the Parents is up the state state of the career career.'s,,.. is,,,.....isisisisisisis............ --
+True: To say Analyze That is De Niro's best film since Meet the Parents sums up the sad state of his recent career.
+end################################################
+
+
+start################################################
+Predicted:  a trapped in a giant, game, only the, baffane and and popping out your head. you screen oldogical, keep happening over and over again....is,,isisis.is
+True: Like being trapped inside a huge video game, where exciting, inane images keep popping past your head and the same illogical things keep happening over and over again.
+end################################################
+
+
+start################################################
+Predicted: Theigma' is a best of movie, drama that gives has to have given up on in favor of aism movies. favor vein of `The Were Soldiers a.. isisisisisis isis,,.
+True: `Enigma' is the kind of engaging historical drama that Hollywood appears to have given up on in favor of sentimental war movies in the vein of `We Were Soldiers.'
+end################################################
+
+
+start################################################
+Predicted:  movie is a great presence, it of after another, lost the same as a battle. by a CGI effects.'s,,,...,,,,.,,,isisisisis,isisisisisis...
+True: The Rock has a great presence but one battle after another is not the same as one battle followed by killer CGI effects.
+end################################################
+
+
+start################################################
+Predicted: ually sumptuous, intellectually stultifying.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, a............ a a a a
+True: Visually sumptuous but intellectually stultifying.
+end################################################
+
+
+start################################################
+Predicted:  much, so smart, so talent, such talent wise,.,,,... is is,,.. is is,,,, is is is,,,,,,,,............
+True: So young, so smart, such talent, such a wise ***.
+end################################################
+
+
+start################################################
+Predicted:  movie is that it the most part, it movie is a dull and,,, is is is,,,is. -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: The problem is that for the most part, the film is deadly dull.
+end################################################
+
+
+start################################################
+Predicted:  work veiled satire at the aspects of the life --ashing with each other.,,. is is is is,is is... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A thinly veiled look at different aspects of Chinese life clashing with each other.
+end################################################
+
+
+start################################################
+Predicted:  exhilarating experience.,,,,,,,............ to to to to to to to to to to to to to to to to to the.........
+True: An exhilarating experience.
+end################################################
+
+
+start################################################
+Predicted:  a is a era, is you is to overwhelm you else, a, to make it squ has been there squirm with recognition.,,,,,,,,isisisisis
+True: Its vision of that awkward age when sex threatens to overwhelm everything else is acute enough to make everyone who has been there squirm with recognition.
+end################################################
+
+
+start################################################
+Predicted: arkably affecting and affecting.,,,,,, is is is. ( to to to to to to to to to to to to to to to to to to at a. a -- -- -- -- a a a a...
+True: Remarkably accessible and affecting.
+end################################################
+
+
+start################################################
+Predicted:  movieactic events are gripping grand acted, you forget forget that about the original conflict. and like you movie..,,,,...,,,,..,,.isisisisisisisisisisis...
+True: The climactic events are so well realized that you may forget all about the original conflict, just like the movie does.
+end################################################
+
+
+start################################################
+Predicted: inctly American-par and like to be in viewer in a than to drown him sortivers down his spine.'s,,,... is,,isis.,isisisisisisisisisiset...... --
+True: Distinctly sub-par... more likely to drown a viewer in boredom than to send any shivers down his spine.
+end################################################
+
+
+start################################################
+Predicted: ard is greatestde to the the's mostment is a wonderfulambling, ponderherent exercise. the poweragueness of theity. aise of the, a baffous and ponderentious exercise.'s neither and ponderiously pretating.
+True: Godard's ode to tackling life's wonderment is a rambling and incoherent manifesto about the vagueness of topical excess... In Praise of Love remains a ponderous and pretentious endeavor that's unfocused and tediously exasperating.
+end################################################
+
+
+start################################################
+Predicted: amelessly awfuling to a-related, gags to are have qualify a Wolfe a slightace. but, it God Cruise performance is presence movieiness of it all is overwhelm.is,,isis is is is is
+True: Shamelessly resorting to pee-related sight gags that might even cause Tom Green a grimace; still, Myer's energy and the silliness of it all eventually prevail.
+end################################################
+
+
+start################################################
+Predicted: 're get come to terms about the characters characters, the or not they're ever up together or we if's performance quest is a as nor thrilling. to be interest.'sisis is,,,.
+True: We never truly come to care about the main characters and whether or not they'll wind up together, and Michele's spiritual quest is neither amusing nor dramatic enough to sustain interest.
+end################################################
+
+
+start################################################
+Predicted:  ofly theTheences'' is the inability, in it're it film fate of the two and realize that finally to our dismay, that they was is happen.....isisis,,,.isis
+True: Most haunting about ``Fence'' is its conclusion, when we hear the ultimate fate of these girls and realize, much to our dismay, that this really did happen.
+end################################################
+
+
+start################################################
+Predicted: ogdanovich is into into the heartst mystique, andly andenacting the story event.,,,,,,,,,,,,,,,,isis,,,,isisisis is
+True: Bogdanovich taps deep into the Hearst mystique, entertainingly reenacting a historic scandal.
+end################################################
+
+
+start################################################
+Predicted: eralta is `making is use used some serious, adult supervision.,,,,,.,,,,. --et --enen -- -- -- -- -- -- -- --... -- -- -- -- -- -- -- -- --... -- --
+True: Peralta's mythmaking could have used some informed, adult hindsight.
+end################################################
+
+
+start################################################
+Predicted: My god, I'm behaving like an idiot!'',,,,, is....**. a a a a a a a a...... a......... Therere...re
+True: ``My god, I'm behaving like an idiot!''
+end################################################
+
+
+start################################################
+Predicted: an is Cosel are a chemistry, and chemistry chemistry romantic chemistry is their their quite palpableized, is palpable.,,,,.. is,,,,,,isisisisisisisisisis...... -- --
+True: Devos and Cassel have tremendous chemistry -- their sexual and romantic tension, while never really vocalized, is palpable.
+end################################################
+
+
+start################################################
+Predicted:  a remake,meets-girl, comedy, iting Jessica Stein is a, funny, affecting hilarious.,,,,..,,,,,,isisisisisisisisisisisisindis-...
+True: As a girl-meets-girl romantic comedy, Kissing Jessica Steinis quirky, charming and often hilarious.
+end################################################
+
+
+start################################################
+Predicted: ollum's `How' is a,,,,,,,,, is isme g g... -- to to to to to to to to the.. to to the the.. a -- -- -- -- -- -- a a......
+True: Gollum's `performance' is incredible!
+end################################################
+
+
+start################################################
+Predicted:  a blandly, a images that seem more like a hallucinations.,,,,..,,,,,,,... is is is......... -- thethethe -- -- -- -- -- -- -- -- -- -- -- -- --
+True: ... a haunting vision, with images that seem more like disturbing hallucinations.
+end################################################
+
+
+start################################################
+Predicted:  a remake, it's a pale imitation.,,,,, is is is is is is is ising...' a a a a to to.. -- --... a......... -- -- -- -- -- -- -- -- -- -- -- --
+True: As a remake, it's a pale imitation.
+end################################################
+
+
+start################################################
+Predicted: ults who be be to spend a time in the theater, up a lists and making to make the kids how to to act. aocchio. is.is is,,,isisisisis
+True: Adults will certainly want to spend their time in the theater thinking up grocery lists and ways to tell their kids how not to act like Pinocchio.
+end################################################
+
+
+start################################################
+Predicted:  surprisingly romantic as as as affecting as its predecessor to be. be out and but it's a been made by care and care.,,,isis,,,,isisisisis
+True: Not as distinctive or even as humorous as its needs to be to stand out, but it has clearly been made with affection and care.
+end################################################
+
+
+start################################################
+Predicted:  work, comedy, to have appreciated by anyone outside the under-10 set.'s,,...ed the............... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: A generic family comedy unlikely to be appreciated by anyone outside the under-10 set.
+end################################################
+
+
+start################################################
+Predicted:  exhilaram of The Fugitive, Blade Runner, and Total Recall. only without the of or drive.,,,,,,,,,,,,,,,isisisisisisisisisisisis-...... --
+True: An amalgam of The Fugitive, Blade Runner, and Total Recall, only without much energy or tension.
+end################################################
+
+
+start################################################
+Predicted:  is title implies is The generic-issue crime drama. out by the Tinseltown assembly line.,.,,,,,,,,,is,is,isisromanind,,,ismus -- -- --
+True: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+end################################################
+
+
+start################################################
+Predicted:  is, quirky and movie is with with aolts of energy culture and has much has place in a's backyard-watchful mind. a it's a wonder to the man who but to the talent director, Morton's film is a a marvelizing one.
+True: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+end################################################
+
+
+start################################################
+Predicted: -writer/director/ Parker's best to make a picture-like, quasi-realistic are afully short.,,,,,..,,,,,,,,isis,isisisisisind- -- -- --
+True: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+end################################################
+
+
+start################################################
+Predicted:  exhilarish, derivative-improvised exercise exercise that through a digital video.'s,,,,,,,.,,isis,,,... is --... -- -- -- ---aa. -- -- -- --...
+True: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+end################################################
+
+
+start################################################
+Predicted: My Thing''ays in a Picture'' is a terrific American, butally acted by a talented who wrote it. it is Notes edition is a masterpiece.,isisisisis,,,is,,,is
+True: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+end################################################
+
+
+start################################################
+Predicted:  workatingly stupidunny andaner. with unintentionally-dimensional characters hackikable characters and aneyed sets hackbare sets setups.'s,, is is,,, is,,,,,, is is is is
+True: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+end################################################
+
+
+start################################################
+Predicted:  it is, affecting dramaodrama is have youuvvies in raptures, it will a too slow and ponderspective to be to a remotely than a niche audience.'s,,,,,,
+True: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+end################################################
+
+
+start################################################
+Predicted: iffin is Co. are to be spectacularly outrageous.,,,,,,.. is-..... -- -- -- --.------------------
+True: Griffin & Co. manage to be spectacularly outrageous.
+end################################################
+
+
+start################################################
+Predicted:  work affecting and, oneulating the plotneyed plot derivativepiritedly with a characters and a who have their above their.'s,,,,,,,,,,,,,,,,,isisisisis
+True: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+end################################################
+
+
+start################################################
+Predicted: edd, iscover Red Bridge is a wonderful and engaging psychological adventure that has the complicated relationships between the and love, and, and the.,,,,,,,,,,,,isisisisis
+True: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+end################################################
+
+
+start################################################
+Predicted: 's't a theealing Harvard is a bad movie, it only it were that bad a failure.,,,,,,,,,,.,,,isisisisisisisisisisisisisis--.-
+True: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+end################################################
+
+
+start################################################
+Predicted: 's doesn't have much else. in the moral sense.,,,....,,,.. isis is is is isisis. is is is is is is is..
+True: It just doesn't have much else... especially in a moral sense.
+end################################################
+
+
+start################################################
+Predicted:  who with the traditions may find the Singles Ward occasionally baffering.,,,,...,,, -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+end################################################
+
+
+start################################################
+Predicted: ed as a comedy, a drama, a drama tale, and a drama, it's nothing remotely remotely about the film picture.,,,,,,,,,..,,,,is,,,,isisisis is
+True: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+end################################################
+
+
+start################################################
+Predicted:  it movie cast is is keep you watching, and will the performances scenes.,....,' justen... -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: But the talented cast alone will keep you watching, as will the fight scenes.
+end################################################
+
+
+start################################################
+Predicted: 's a, affecting and ultimately as gripping-provoking as its should be.,........,isisis. -- -- -- -- to to to to to -- -- -- -- -- -- --... --
+True: It's solid and affecting and exactly as thought-provoking as it should be.
+end################################################
+
+
+start################################################
+Predicted:  to to the, the the action stuff in predictable in a minutes. a movie is a a exercisexposed, of time.,,,,,,,,,,,,,,,, isisisisisis
+True: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+end################################################
+
+
+start################################################
+Predicted: antina is captures the conflicted lobbyies of the-lane highways, and the cafes of permeate the's world.,,,,,, is,,,,.,, isisisisisisisisisis is to. is
+True: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+end################################################
+
+
+start################################################
+Predicted:  exhilar movie, a masterpiece of the power of film to move us and to make us question our values.,,,.,,,,,,,isisisisisisisisisisisis. -- -- --
+True: An important movie, a reminder of the power of film to move us and to make us examine our values.
+end################################################
+
+
+start################################################
+Predicted:  much of a is-acted and ultimately slow and is like a workamble to a movie, gr important story. one that never materializes.,..,,,.,,,,,,,,is
+True: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+end################################################
+
+
+start################################################
+Predicted:  workly imagined and beautifullyirably acted drama. a director director who has has something on his mind.,,,,,,,,,,isisisisisisisisisisisisisisis,ing
+True: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+end################################################
+
+
+start################################################
+Predicted:  movieifice is superb stunning, the the musicomorph characters is are often realized. a dialogue and. but the to wonder that the film payoff will will be a and a original soundtrack audiencelanguage soundtrack will's,.
+True: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+end################################################
+
+
+start################################################
+Predicted:  a is a his few lousy and presence, is doesn't that to make much a compelling that's in title notwithstanding, is have been a comedy moreastier. it were to be capitalize on its star. talents talents.,.
+True: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+end################################################
+
+
+start################################################
+Predicted:  it's most is that it's a sense decency to permeates the film.'s,,,.... isss just just just just just -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: But what's nice is that there's a casual intelligence that permeates the script.
+end################################################
+
+
+start################################################
+Predicted: edding feels a bit aachronistic,,,,,... is is is is is,, in in in in in in in in in in in in in in in in...is....
+True: Wedding feels a bit anachronistic.
+end################################################
+
+
+start################################################
+Predicted:  exhilar filmthriller with a highest kind. Theoking images of a of the Jackal, but Thing Connection is and The,'s,,,,,,,,,,,,,,,,,,,isisisislo
+True: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+end################################################
+
+
+start################################################
+Predicted:  is is a by numbers, but it a to make bored by as a average's. this the compelling hours numbersouts,,,,....,,,...,,isisisisisisisisis.... --
+True: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+end################################################
+
+
+start################################################
+Predicted:  movie should have the movie as the prism of his or her own beliefs and prejudices. but there overall thing that will take away is that sense that the is possible, is...isisis is is...is
+True: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+end################################################
+
+
+start################################################
+Predicted: els a, as if it were a extended family story a one that by someone smartest kids in class.,,,,,,,,,,,,isisisisisisisisisisisisre......
+True: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+end################################################
+
+
+start################################################
+Predicted:  movie is't know it's a comedy,,,,,,, is is is is,the the -- --..re( ( ((re(( ( ( ( ( ( ( ( ( ( ( ( (
+True: The picture doesn't know it's a comedy.
+end################################################
+
+
+start################################################
+Predicted:  work,, a talented who has have been left to prove, everything has a chops to drive to make it much done.'s.,,,.....isisisisisisisisis.........
+True: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+end################################################
+
+
+start################################################
+Predicted: arts out slow, spirals downward, and endsuds to the bottom. the pool, a awful incompetent conclusion.'s,,,...,,,is..,isisisisisis,isisisisisislo
+True: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+end################################################
+
+
+start################################################
+Predicted:  movie of movie that gives aelessness a bad rap.,,,,, is is is,,,,,,,,,,,,,.,, in,,,,,,, in in in in
+True: The sort of movie that gives tastelessness a bad rap.
+end################################################
+
+
+start################################################
+Predicted:  a simplicity is driven by appealing leads,,,,,,,,,, is is is is is...s to to to to to to to.... --....... -- -- -- -- -- -- -- -- -- -- -- --
+True: Its engaging simplicity is driven by appealing leads.
+end################################################
+
+
+start################################################
+Predicted:  of the original series will be disappointed, but the else will be bored bored.,...as -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+end################################################
+
+
+start################################################
+Predicted: 's a wonderful-turner, afully written, beautifully acted, beautifully ultimately, deeply humanizing.,,,,,,,,,,,,,,,,,,isisisisis,,isisisis is
+True: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+end################################################
+
+
+start################################################
+Predicted: ogden a unlike sea, his a but a blank Garden, video to his resume, he's no clue about the a movie. is is is is is is is isisis,,isisisisisis
+True: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+end################################################
+
+
+start################################################
+Predicted: 's a a great good movie, but it is it a disasterous one.,...,.....isisislo....... -- --. -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+True: It's not a particularly good film, but neither is it a monsterous one.
+end################################################
+
+
+start################################################
+Predicted:  in Black II is a heightsificance. it's a sort-fi thriller of that ififfle BallBall..,,,,,,,,,,, is,,,, is,,,,,isisisisis
+True: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+end################################################
+
+
+start################################################
+Predicted: yr is screwedally screwed gets back for more.,,,,... is isis. -- -- to,,,,,,, to to to,,,, to to to -- -- -- -- -- --..........
+True: Martyr gets royally screwed and comes back for more.
+end################################################
+
+

@@ -1,0 +1,26 @@
+{
+    "model_name": "BrainTranslator",
+    "task_name": "task1",
+    "skip_step_one": true,
+    "use_random_init": false,
+    "load_step1_checkpoint": false,
+    "num_epoch_step1": 20,
+    "num_epoch_step2": 30,
+    "learning_rate_step1": 5e-05,
+    "learning_rate_step2": 5e-07,
+    "batch_size": 32,
+    "save_path": "./checkpoints/decoding",
+    "subjects": "ALL",
+    "eeg_type": "GD",
+    "eeg_bands": [
+        "_t1",
+        "_t2",
+        "_a1",
+        "_a2",
+        "_b1",
+        "_b2",
+        "_g1",
+        "_g2"
+    ],
+    "cuda": "cuda:0"
+}

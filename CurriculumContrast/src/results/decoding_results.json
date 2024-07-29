@@ -1,0 +1,19 @@
+{
+    "wer": 1.0546650886535645,
+    "rouge1_fmeasure": 45.06136703491211,
+    "rouge1_precision": 42.7697868347168,
+    "rouge1_recall": 50.157470703125,
+    "rouge2_fmeasure": 20.926921844482422,
+    "rouge2_precision": 19.613174438476562,
+    "rouge2_recall": 23.987125396728516,
+    "rougeL_fmeasure": 42.26690673828125,
+    "rougeL_precision": 40.08176040649414,
+    "rougeL_recall": 47.13576889038086,
+    "rougeLsum_fmeasure": 42.344139099121094,
+    "rougeLsum_precision": 40.15495300292969,
+    "rougeLsum_recall": 47.21933364868164,
+    "bleu-1": 0.29250437021255493,
+    "bleu-2": 0.18564309179782867,
+    "bleu-3": 0.1234767735004425,
+    "bleu-4": 0.08518432825803757
+}

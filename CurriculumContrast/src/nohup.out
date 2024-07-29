@@ -1,0 +1,102 @@
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+/home/nicki/.local/lib/python3.10/site-packages/torch/nn/modules/transformer.py:286: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+########## DataSet Sizes = {'train': 3461, 'dev': 385}
+Epoch 0/4
+----------
+Traceback (most recent call last):
+  File "/home/nicki/curriculumContrast/src/train.py", line 436, in <module>
+    main()
+  File "/home/nicki/curriculumContrast/src/train.py", line 427, in main
+    model = train_BrainTranslator(
+  File "/home/nicki/curriculumContrast/src/train.py", line 82, in train_BrainTranslator
+    optimizer.step()
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/lr_scheduler.py", line 75, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/optimizer.py", line 385, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/optimizer.py", line 76, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/adam.py", line 166, in step
+    adam(
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/adam.py", line 316, in adam
+    func(params,
+  File "/home/nicki/.local/lib/python3.10/site-packages/torch/optim/adam.py", line 579, in _multi_tensor_adam
+    exp_avg_sq_sqrt = torch._foreach_sqrt(device_exp_avg_sqs)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 3 has a total capacity of 23.68 GiB of which 17.75 MiB is free. Process 257158 has 14.67 GiB memory in use. Including non-PyTorch memory, this process has 8.99 GiB memory in use. Of the allocated memory 8.59 GiB is allocated by PyTorch, and 92.63 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+/home/nicki/.local/lib/python3.10/site-packages/torch/nn/modules/transformer.py:286: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+/home/nicki/.local/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:143: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+########## DataSet Sizes = {'train': 0, 'dev': 0}
+Epoch 0/4
+----------
+Traceback (most recent call last):
+  File "/home/nicki/curriculumContrast/src/train.py", line 436, in <module>
+    main()
+  File "/home/nicki/curriculumContrast/src/train.py", line 427, in main
+    model = train_BrainTranslator(
+  File "/home/nicki/curriculumContrast/src/train.py", line 92, in train_BrainTranslator
+    epoch_loss = running_loss / dataset_sizes[phase]
+ZeroDivisionError: float division by zero
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+/home/nicki/.local/lib/python3.10/site-packages/torch/nn/modules/transformer.py:286: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+/home/nicki/.local/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:143: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn("Detected call of `lr_scheduler.step()` before `optimizer.step()`. "
+########## DataSet Sizes = {'train': 0, 'dev': 0}
+Epoch 0/4
+----------
+Traceback (most recent call last):
+  File "/home/nicki/curriculumContrast/src/train.py", line 436, in <module>
+    main()
+  File "/home/nicki/curriculumContrast/src/train.py", line 427, in main
+    model = train_BrainTranslator(
+  File "/home/nicki/curriculumContrast/src/train.py", line 92, in train_BrainTranslator
+    epoch_loss = running_loss / dataset_sizes[phase]
+ZeroDivisionError: float division by zero
+/usr/lib/python3/dist-packages/requests/__init__.py:87: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (5.2.0) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+/home/nicki/.local/lib/python3.10/site-packages/torch/nn/modules/transformer.py:286: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+########## DataSet Sizes = {'train': 3461, 'dev': 385}
+Epoch 0/4
+----------
+train Loss: 4.5050
+dev Loss: 3.4159
+update best on dev checkpoint: ./checkpoints/decoding/best/translator.pt
+
+Epoch 1/4
+----------
+train Loss: 3.8023
+dev Loss: 3.0216
+update best on dev checkpoint: ./checkpoints/decoding/best/translator.pt
+
+Epoch 2/4
+----------
+train Loss: 3.3430
+dev Loss: 2.5784
+update best on dev checkpoint: ./checkpoints/decoding/best/translator.pt
+
+Epoch 3/4
+----------
+train Loss: 2.9107
+dev Loss: 2.1879
+update best on dev checkpoint: ./checkpoints/decoding/best/translator.pt
+
+Epoch 4/4
+----------
+train Loss: 2.5248
+dev Loss: 2.0467
+update best on dev checkpoint: ./checkpoints/decoding/best/translator.pt
+
+Training complete in 29m 18s
+Best val loss: 2.046662
+update last checkpoint: ./checkpoints/decoding/last/translator.pt
+{'wer': 1.0546650886535645, 'rouge1_fmeasure': 45.06136703491211, 'rouge1_precision': 42.7697868347168, 'rouge1_recall': 50.157470703125, 'rouge2_fmeasure': 20.926921844482422, 'rouge2_precision': 19.613174438476562, 'rouge2_recall': 23.987125396728516, 'rougeL_fmeasure': 42.26690673828125, 'rougeL_precision': 40.08176040649414, 'rougeL_recall': 47.13576889038086, 'rougeLsum_fmeasure': 42.344139099121094, 'rougeLsum_precision': 40.15495300292969, 'rougeLsum_recall': 47.21933364868164, 'bleu-1': 0.29250437021255493, 'bleu-2': 0.18564309179782867, 'bleu-3': 0.1234767735004425, 'bleu-4': 0.08518432825803757}
+./results/decoding_results.txt
+./results/decoding_results.json
