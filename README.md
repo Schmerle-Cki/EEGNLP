@@ -14,7 +14,7 @@ A repository that aggregates open-source EEG2Text works.
 
 - ###### Option 2
 
-  Download the preprocessed 'datasets' directory from [uploading - to be updated soon].
+  Download the preprocessed 'datasets' directory from [https://app.degoo.com/share/ek3s3VqJpKl4qyOpTthM9A](https://app.degoo.com/share/ek3s3VqJpKl4qyOpTthM9A).
 
 #### Models
 
